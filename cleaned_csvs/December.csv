@@ -1,0 +1,743 @@
+sl_no,heads_of_crime,major_head,minor_head,current_year_upto,prev_year_same_month,prev_month,current_month,month
+1,,"Murder (Sec.302/303 IPC/103,104 BNS)",For gain,38.0,6.0,4.0,7.0,December
+2,,"Murder (Sec.302/303 IPC/103,104 BNS)",Over Property Dispute,24.0,4.0,2.0,2.0,December
+3,,"Murder (Sec.302/303 IPC/103,104 BNS)",Due to Personal Vendetta or enemity,25.0,2.0,2.0,2.0,December
+4,,"Murder (Sec.302/303 IPC/103,104 BNS)",Due to Sexual jealousy,16.0,0.0,1.0,2.0,December
+5,,"Murder (Sec.302/303 IPC/103,104 BNS)",For dowry by burning,0.0,1.0,0.0,0.0,December
+6,,"Murder (Sec.302/303 IPC/103,104 BNS)",For dowry by other means,11.0,2.0,0.0,2.0,December
+7,,"Murder (Sec.302/303 IPC/103,104 BNS)",Due to Communalism,0.0,0.0,0.0,0.0,December
+8,,"Murder (Sec.302/303 IPC/103,104 BNS)",Due to Casteism,3.0,0.0,0.0,2.0,December
+9,,"Murder (Sec.302/303 IPC/103,104 BNS)",Witch Craft (Sorcery),0.0,0.0,0.0,0.0,December
+10,,"Murder (Sec.302/303 IPC/103,104 BNS)",For Human Sacrifice,2.0,0.0,1.0,0.0,December
+11,,"Murder (Sec.302/303 IPC/103,104 BNS)",Due to Terrorism/Naxalism / Extremism,0.0,0.0,0.0,0.0,December
+12,,"Murder (Sec.302/303 IPC/103,104 BNS)",For Political Reasons,0.0,0.0,0.0,0.0,December
+13,,"Murder (Sec.302/303 IPC/103,104 BNS)",Due to Adultery,25.0,3.0,2.0,1.0,December
+14,,"Murder (Sec.302/303 IPC/103,104 BNS)",Civil Disputes,57.0,6.0,4.0,2.0,December
+15,,"Murder (Sec.302/303 IPC/103,104 BNS)",Electoral Gain,0.0,0.0,0.0,0.0,December
+16,,"Murder (Sec.302/303 IPC/103,104 BNS)",Gang Rivalry,1.0,0.0,0.0,0.0,December
+17,,"Murder (Sec.302/303 IPC/103,104 BNS)",Love Intrigue,25.0,2.0,3.0,1.0,December
+18,,"Murder (Sec.302/303 IPC/103,104 BNS)",Professional ,0.0,0.0,0.0,0.0,December
+19,,"Murder (Sec.302/303 IPC/103,104 BNS)",Psychopathic/Serial Killer/Lunacy,0.0,0.0,0.0,0.0,December
+20,,"Murder (Sec.302/303 IPC/103,104 BNS)",Rape with Murder,8.0,0.0,0.0,0.0,December
+21,,"Murder (Sec.302/303 IPC/103,104 BNS)",Revenge/Enemity,59.0,7.0,2.0,6.0,December
+22,,"Murder (Sec.302/303 IPC/103,104 BNS)",Sudden Quarrel,104.0,5.0,7.0,6.0,December
+23,,"Murder (Sec.302/303 IPC/103,104 BNS)",Village Dispute,0.0,0.0,0.0,0.0,December
+24,,"Murder (Sec.302/303 IPC/103,104 BNS)",Custodial,0.0,0.0,0.0,0.0,December
+25,,"Murder (Sec.302/303 IPC/103,104 BNS)",Due to Other Causes,810.0,84.0,79.0,62.0,December
+26,,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),For Gain ,22.0,0.0,3.0,1.0,December
+27,,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Over Property Dispute,76.0,6.0,13.0,10.0,December
+28,,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Due to Personal Vendetta or enemity,79.0,11.0,7.0,4.0,December
+29,,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Due to Sexual jealousy,22.0,0.0,2.0,2.0,December
+30,,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),For Dowry other Means,35.0,2.0,2.0,1.0,December
+31,,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Dowry By Burning,0.0,0.0,0.0,0.0,December
+32,,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Due to Communalism,5.0,0.0,0.0,0.0,December
+33,,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Due to Casteism,3.0,0.0,1.0,1.0,December
+34,,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Witch Craft (Sorcery),0.0,0.0,0.0,0.0,December
+35,,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),For Human Sacrifice,1.0,0.0,1.0,0.0,December
+36,,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Terrorism /Naxalism / Extremism,0.0,0.0,0.0,0.0,December
+37,,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),For Political Reasons,12.0,1.0,1.0,2.0,December
+38,,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Adultery,14.0,2.0,0.0,1.0,December
+39,,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Electoral Gain,2.0,0.0,0.0,1.0,December
+40,,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Gang Rivalry,1.0,0.0,0.0,0.0,December
+41,,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Love Intrigue,18.0,4.0,6.0,0.0,December
+42,,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Professional ,3.0,3.0,0.0,0.0,December
+43,,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Rape,0.0,0.0,0.0,0.0,December
+44,,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Revenge/Enemity,253.0,17.0,23.0,23.0,December
+45,,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Sudden Quarrel,274.0,12.0,30.0,28.0,December
+46,,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Village Dispute,9.0,0.0,0.0,1.0,December
+47,,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Due to Other Causes,1764.0,127.0,153.0,146.0,December
+48,,ATTEMPT TO MURDER (Sec. 307 IPC/109BNS),Civil Disputes,273.0,27.0,11.0,35.0,December
+49,,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),For Gain,0.0,0.0,0.0,0.0,December
+50,,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),Over Civil Dispute,1.0,0.0,0.0,0.0,December
+51,,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),Due to Personal Vendetta or enemity,0.0,0.0,0.0,0.0,December
+52,,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),Due to Sexual jealousy,0.0,0.0,0.0,0.0,December
+53,,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),For Dowry,0.0,0.0,0.0,0.0,December
+54,,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),Due to Communalism,0.0,0.0,0.0,0.0,December
+55,,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),Due to Casteism,0.0,0.0,0.0,0.0,December
+56,,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),Witch Craft (Sorcery),0.0,0.0,0.0,0.0,December
+57,,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),For Human Sacrifice,2.0,0.0,0.0,0.0,December
+58,,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),Terrorism /Naxalism / Extremism,0.0,0.0,0.0,0.0,December
+59,,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),For Political Reasons,0.0,0.0,0.0,0.0,December
+60,,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),Adultery,0.0,0.0,0.0,0.0,December
+61,,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),Property Disputes,2.0,0.0,0.0,0.0,December
+62,,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),Electoral Gain,1.0,0.0,1.0,0.0,December
+63,,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),Gang Rivalry,0.0,0.0,0.0,0.0,December
+64,,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),Love Intrigue,0.0,0.0,0.0,0.0,December
+65,,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),Professional ,0.0,0.0,0.0,0.0,December
+66,,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),Sudden Quarrel,13.0,0.0,1.0,1.0,December
+67,,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC/105 BNS),Due to Other Causes,105.0,12.0,6.0,5.0,December
+68,,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),For Gain,0.0,0.0,0.0,0.0,December
+69,,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),Over Civil Dispute,3.0,1.0,0.0,0.0,December
+70,,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),Due to Personal Vendetta or enemity,1.0,0.0,0.0,0.0,December
+71,,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),Due to Sexual jealousy,0.0,0.0,0.0,0.0,December
+72,,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),For Dowry,0.0,0.0,0.0,0.0,December
+73,,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),Due to Communalism,1.0,0.0,0.0,1.0,December
+74,,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),Due to Casteism,0.0,0.0,0.0,0.0,December
+75,,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),Witch Craft (Sorcery),0.0,0.0,0.0,0.0,December
+76,,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),For Human Sacrifice,0.0,0.0,0.0,0.0,December
+77,,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),Terrorism /Naxalism / Extremism,0.0,0.0,0.0,0.0,December
+78,,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),For Political Reasons,1.0,0.0,0.0,0.0,December
+79,,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),Due to Other Causes,42.0,2.0,4.0,2.0,December
+80,,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),Adultery,0.0,0.0,0.0,0.0,December
+81,,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),Property Disputes,3.0,0.0,0.0,0.0,December
+82,,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),Electoral Gain,0.0,0.0,0.0,0.0,December
+83,,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),Gang Rivalry,0.0,0.0,0.0,0.0,December
+84,,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),Love Intrigue,0.0,0.0,0.0,0.0,December
+85,,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),Professional ,1.0,0.0,0.0,0.0,December
+86,,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC/110 BNS),Sudden Quarrel,10.0,1.0,0.0,0.0,December
+87,,"RAPE (Sec.376, 376(A) to 376 (D) IPC/64 TO 71 BNS)",Custodial Rape,1.0,0.0,0.0,0.0,December
+88,,"RAPE (Sec.376, 376(A) to 376 (D) IPC/64 TO 71 BNS)",Attempt to Commit,10.0,2.0,1.0,1.0,December
+89,,"RAPE (Sec.376, 376(A) to 376 (D) IPC/64 TO 71 BNS)",By a Gang,16.0,0.0,3.0,1.0,December
+90,,"RAPE (Sec.376, 376(A) to 376 (D) IPC/64 TO 71 BNS)",By Parents,0.0,0.0,0.0,0.0,December
+91,,"RAPE (Sec.376, 376(A) to 376 (D) IPC/64 TO 71 BNS)",By Hospital Staff,2.0,0.0,0.0,0.0,December
+92,,"RAPE (Sec.376, 376(A) to 376 (D) IPC/64 TO 71 BNS)",By Husband During Sepearation,3.0,2.0,0.0,0.0,December
+93,,"RAPE (Sec.376, 376(A) to 376 (D) IPC/64 TO 71 BNS)",By Neighbours,40.0,5.0,3.0,0.0,December
+94,,"RAPE (Sec.376, 376(A) to 376 (D) IPC/64 TO 71 BNS)",By Relatives,44.0,3.0,3.0,2.0,December
+95,,"RAPE (Sec.376, 376(A) to 376 (D) IPC/64 TO 71 BNS)",In Jail Custody,0.0,0.0,0.0,0.0,December
+96,,"RAPE (Sec.376, 376(A) to 376 (D) IPC/64 TO 71 BNS)",In Remand Home,0.0,0.0,0.0,0.0,December
+97,,"RAPE (Sec.376, 376(A) to 376 (D) IPC/64 TO 71 BNS)",InCest,0.0,0.0,0.0,0.0,December
+98,,"RAPE (Sec.376, 376(A) to 376 (D) IPC/64 TO 71 BNS)",Known Person,390.0,32.0,28.0,35.0,December
+99,,"RAPE (Sec.376, 376(A) to 376 (D) IPC/64 TO 71 BNS)",Unknown Person,9.0,1.0,1.0,0.0,December
+100,,"RAPE (Sec.376, 376(A) to 376 (D) IPC/64 TO 71 BNS)",Due to Other Causes,111.0,11.0,6.0,11.0,December
+101,,"RAPE (Sec.376, 376(A) to 376 (D) IPC/64 TO 71 BNS)",On Minor,0.0,0.0,0.0,0.0,December
+102,,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",Missing - Boy,2543.0,174.0,214.0,234.0,December
+103,,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",Missing - Girl,968.0,75.0,109.0,77.0,December
+104,,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",For Ransom - of Children,11.0,1.0,0.0,1.0,December
+105,,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",For Ransom - of Cildren for Begging,1.0,0.0,1.0,0.0,December
+106,,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",For Ransom - of Women,10.0,0.0,4.0,0.0,December
+107,,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",For Ransom - of Girls for Immoral Purpose,0.0,0.0,0.0,0.0,December
+108,,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",For Ransom - of  Others,69.0,3.0,9.0,5.0,December
+109,,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",Procuration of Minor Girls - For Prostitution,0.0,0.0,0.0,0.0,December
+110,,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",Procuration of Minor Girls - Importring of Girl,0.0,0.0,0.0,0.0,December
+111,,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",Procuration of Minor Girls - For other Purpose,16.0,0.0,2.0,2.0,December
+112,,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",Espionage,0.0,0.0,0.0,0.0,December
+113,,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",Intent to Steal From Child,0.0,0.0,0.0,0.0,December
+114,,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",Murder (Homicide),1.0,0.0,1.0,0.0,December
+115,,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",Obtain Signature Forcibly,0.0,0.0,0.0,0.0,December
+116,,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",Recovering Loan,4.0,0.0,0.0,1.0,December
+117,,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",Settling any Disputes,5.0,2.0,0.0,0.0,December
+118,,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",Unnatural Lust / Illicit Intercourse,0.0,0.0,0.0,0.0,December
+119,,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",Wrongful Confinement,17.0,2.0,3.0,3.0,December
+120,,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",For Exporting,0.0,0.0,0.0,0.0,December
+121,,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",From Lawful Guardianship,5.0,0.0,1.0,0.0,December
+122,,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",For Camel Racing Etc.,0.0,0.0,0.0,0.0,December
+123,,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",To Compel For Marriage,12.0,1.0,2.0,2.0,December
+124,,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",For Slavery,0.0,0.0,0.0,0.0,December
+125,,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",For Stealing From its Person,0.0,0.0,0.0,0.0,December
+126,,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC/137(1)(A),137(1)(B),137(2),140 TO 142,97 BNS)",Others,435.0,20.0,38.0,50.0,December
+127,,"DACOITY (Sec. 395 to 398 IPC/310(2),310(4),311,312 BNS)",At ATM,0.0,0.0,0.0,0.0,December
+128,,"DACOITY (Sec. 395 to 398 IPC/310(2),310(4),311,312 BNS)",At Residential Premises,26.0,2.0,1.0,2.0,December
+129,,"DACOITY (Sec. 395 to 398 IPC/310(2),310(4),311,312 BNS)",On Highways,33.0,3.0,3.0,5.0,December
+130,,"DACOITY (Sec. 395 to 398 IPC/310(2),310(4),311,312 BNS)",In Trains,0.0,0.0,0.0,0.0,December
+131,,"DACOITY (Sec. 395 to 398 IPC/310(2),310(4),311,312 BNS)",At Banks,0.0,0.0,0.0,0.0,December
+132,,"DACOITY (Sec. 395 to 398 IPC/310(2),310(4),311,312 BNS)",At Commercial Places / Establishments,18.0,0.0,2.0,0.0,December
+133,,"DACOITY (Sec. 395 to 398 IPC/310(2),310(4),311,312 BNS)",On Other Roads,32.0,5.0,2.0,4.0,December
+134,,"DACOITY (Sec. 395 to 398 IPC/310(2),310(4),311,312 BNS)",In Other Places,45.0,7.0,1.0,1.0,December
+135,,"DACOITY (Sec. 395 to 398 IPC/310(2),310(4),311,312 BNS)",River & Sea,1.0,0.0,0.0,0.0,December
+136,,"DACOITY (Sec. 395 to 398 IPC/310(2),310(4),311,312 BNS)",Preparation And Assembly for Dacoity,116.0,9.0,4.0,5.0,December
+137,,"Robbery (Sec.392 to 394 IPC/309(4),309(5),309(6) BNS)",At ATM,0.0,0.0,0.0,0.0,December
+138,,"Robbery (Sec.392 to 394 IPC/309(4),309(5),309(6) BNS)",At Residential Premises,134.0,15.0,6.0,5.0,December
+139,,"Robbery (Sec.392 to 394 IPC/309(4),309(5),309(6) BNS)",On Highways,88.0,9.0,6.0,6.0,December
+140,,"Robbery (Sec.392 to 394 IPC/309(4),309(5),309(6) BNS)",In Trains,8.0,0.0,0.0,2.0,December
+141,,"Robbery (Sec.392 to 394 IPC/309(4),309(5),309(6) BNS)",At Banks,2.0,0.0,1.0,0.0,December
+142,,"Robbery (Sec.392 to 394 IPC/309(4),309(5),309(6) BNS)",At Commercial Places / Establishments,65.0,13.0,1.0,6.0,December
+143,,"Robbery (Sec.392 to 394 IPC/309(4),309(5),309(6) BNS)",In Other Places,650.0,72.0,27.0,32.0,December
+144,,"Robbery (Sec.392 to 394 IPC/309(4),309(5),309(6) BNS)",Chain Snatching,615.0,71.0,40.0,40.0,December
+145,,"Robbery (Sec.392 to 394 IPC/309(4),309(5),309(6) BNS)",Attempt to Commit,49.0,10.0,1.0,5.0,December
+146,,"BURGLARY - NIGHT (Sec. 380 IPC R/W 453 TO 460, 462 IPC/305,R/W 331(1) TO 331(8),334(2) BNS)",At Residential Premises,2645.0,261.0,227.0,206.0,December
+147,,"BURGLARY - NIGHT (Sec. 380 IPC R/W 453 TO 460, 462 IPC/305,R/W 331(1) TO 331(8),334(2) BNS)",On Highways,2.0,0.0,0.0,0.0,December
+148,,"BURGLARY - NIGHT (Sec. 380 IPC R/W 453 TO 460, 462 IPC/305,R/W 331(1) TO 331(8),334(2) BNS)",In Trains,0.0,0.0,0.0,0.0,December
+149,,"BURGLARY - NIGHT (Sec. 380 IPC R/W 453 TO 460, 462 IPC/305,R/W 331(1) TO 331(8),334(2) BNS)",At Banks,37.0,6.0,4.0,1.0,December
+150,,"BURGLARY - NIGHT (Sec. 380 IPC R/W 453 TO 460, 462 IPC/305,R/W 331(1) TO 331(8),334(2) BNS)",At Commercial Places / Establishments,747.0,78.0,41.0,58.0,December
+151,,"BURGLARY - NIGHT (Sec. 380 IPC R/W 453 TO 460, 462 IPC/305,R/W 331(1) TO 331(8),334(2) BNS)",In Other Places,549.0,67.0,39.0,42.0,December
+152,,"BURGLARY - NIGHT (Sec. 380 IPC R/W 453 TO 460, 462 IPC/305,R/W 331(1) TO 331(8),334(2) BNS)",Temple Theft,342.0,31.0,23.0,26.0,December
+153,,"BURGLARY - DAY (Sec. 380 IPC R/W 453 TO 460, 462 IPC/305,R/W 331(1) TO 331(8), 334(2) BNS)",At Residential Premises,999.0,97.0,83.0,84.0,December
+154,,"BURGLARY - DAY (Sec. 380 IPC R/W 453 TO 460, 462 IPC/305,R/W 331(1) TO 331(8), 334(2) BNS)",On Highways,0.0,0.0,0.0,0.0,December
+155,,"BURGLARY - DAY (Sec. 380 IPC R/W 453 TO 460, 462 IPC/305,R/W 331(1) TO 331(8), 334(2) BNS)",In Trains,1.0,0.0,0.0,0.0,December
+156,,"BURGLARY - DAY (Sec. 380 IPC R/W 453 TO 460, 462 IPC/305,R/W 331(1) TO 331(8), 334(2) BNS)",At Banks,3.0,0.0,1.0,0.0,December
+157,,"BURGLARY - DAY (Sec. 380 IPC R/W 453 TO 460, 462 IPC/305,R/W 331(1) TO 331(8), 334(2) BNS)",At Commercial Places / Establishments,31.0,8.0,1.0,2.0,December
+158,,"BURGLARY - DAY (Sec. 380 IPC R/W 453 TO 460, 462 IPC/305,R/W 331(1) TO 331(8), 334(2) BNS)",In Other Places,71.0,5.0,5.0,8.0,December
+159,,"BURGLARY - DAY (Sec. 380 IPC R/W 453 TO 460, 462 IPC/305,R/W 331(1) TO 331(8), 334(2) BNS)",Temple Theft,23.0,0.0,1.0,0.0,December
+160,,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Attempt to commit,47.0,5.0,4.0,2.0,December
+161,,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Of Automobiles - Of Tractors,86.0,15.0,6.0,11.0,December
+162,,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),In Running Bus,72.0,0.0,18.0,7.0,December
+163,,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Of Snatching,235.0,0.0,28.0,54.0,December
+164,,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),At ATM,16.0,3.0,2.0,3.0,December
+165,,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Of Sand,1259.0,95.0,87.0,120.0,December
+166,,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Government Office,12.0,0.0,2.0,4.0,December
+167,,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Of Mines,28.0,0.0,5.0,2.0,December
+168,,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Communication And Elec. Wire,276.0,21.0,30.0,23.0,December
+169,,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Of Cattle,501.0,39.0,29.0,31.0,December
+170,,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Of Cycle,93.0,14.0,6.0,2.0,December
+171,,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Of Automobiles - Of Lorries/Trucks,85.0,12.0,1.0,8.0,December
+172,,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Of Automobiles - Of Buses,10.0,1.0,0.0,2.0,December
+173,,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Of Automobiles - Of Cars / Jeeps,259.0,24.0,22.0,31.0,December
+174,,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Of Automobiles - Of Two Wheelers ,10874.0,1057.0,732.0,841.0,December
+175,,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Of Automobies - of Three Wheelers,296.0,25.0,17.0,30.0,December
+176,,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Of Accessories of Motor Vehicle,315.0,29.0,18.0,25.0,December
+177,,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Govt. Vehicle,3.0,0.0,0.0,0.0,December
+178,,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),"Electronic Goods (Radio, TV, VCR, Acs, Office Automation Equipments)",1292.0,158.0,71.0,100.0,December
+179,,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Of Fire Arms,10.0,2.0,0.0,1.0,December
+180,,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Of Explosives,0.0,0.0,0.0,0.0,December
+181,,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Of Cultural - Idols,7.0,1.0,0.0,2.0,December
+182,,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Of Cultural - Painting,2.0,0.0,0.0,1.0,December
+183,,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Of Cultrual - Others,240.0,28.0,22.0,22.0,December
+184,,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Cash,583.0,79.0,47.0,51.0,December
+185,,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Jewellery,1659.0,154.0,157.0,149.0,December
+186,,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Other Items Not Included Above,1804.0,200.0,124.0,160.0,December
+187,,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),In Running Train,64.0,6.0,18.0,7.0,December
+188,,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Extortion,271.0,27.0,17.0,22.0,December
+189,,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),House Theft,1922.0,176.0,152.0,139.0,December
+190,,THEFT (Sec.379 to 389 IPC/303(2) TO 308(7) BNS),Servant Theft,528.0,60.0,52.0,40.0,December
+191,,"RIOTS (Sec.141 to 153 IPC/189(1) TO 189(6),191(1)TO 191(3), 190,192,195 BNS))",Land Dispute,949.0,93.0,57.0,67.0,December
+192,,"RIOTS (Sec.141 to 153 IPC/189(1) TO 189(6),191(1)TO 191(3), 190,192,195 BNS))",Employee - Govt.,2.0,0.0,1.0,0.0,December
+193,,"RIOTS (Sec.141 to 153 IPC/189(1) TO 189(6),191(1)TO 191(3), 190,192,195 BNS))",Labour - Private Sector,3.0,0.0,1.0,0.0,December
+194,,"RIOTS (Sec.141 to 153 IPC/189(1) TO 189(6),191(1)TO 191(3), 190,192,195 BNS))",Labour - Public Sector,1.0,0.0,0.0,0.0,December
+195,,"RIOTS (Sec.141 to 153 IPC/189(1) TO 189(6),191(1)TO 191(3), 190,192,195 BNS))",Linguistic,2.0,11.0,0.0,0.0,December
+196,,"RIOTS (Sec.141 to 153 IPC/189(1) TO 189(6),191(1)TO 191(3), 190,192,195 BNS))",Political ,24.0,0.0,2.0,7.0,December
+197,,"RIOTS (Sec.141 to 153 IPC/189(1) TO 189(6),191(1)TO 191(3), 190,192,195 BNS))",Regional,5.0,2.0,0.0,0.0,December
+198,,"RIOTS (Sec.141 to 153 IPC/189(1) TO 189(6),191(1)TO 191(3), 190,192,195 BNS))",Sectarian,0.0,0.0,0.0,0.0,December
+199,,"RIOTS (Sec.141 to 153 IPC/189(1) TO 189(6),191(1)TO 191(3), 190,192,195 BNS))",Students,6.0,1.0,0.0,0.0,December
+200,,"RIOTS (Sec.141 to 153 IPC/189(1) TO 189(6),191(1)TO 191(3), 190,192,195 BNS))",Tribal,0.0,0.0,0.0,0.0,December
+201,,"RIOTS (Sec.141 to 153 IPC/189(1) TO 189(6),191(1)TO 191(3), 190,192,195 BNS))",Due to Village Disputes,24.0,3.0,1.0,0.0,December
+202,,"RIOTS (Sec.141 to 153 IPC/189(1) TO 189(6),191(1)TO 191(3), 190,192,195 BNS))",Communal,21.0,0.0,0.0,0.0,December
+203,,"RIOTS (Sec.141 to 153 IPC/189(1) TO 189(6),191(1)TO 191(3), 190,192,195 BNS))",Industrial,3.0,0.0,0.0,0.0,December
+204,,"RIOTS (Sec.141 to 153 IPC/189(1) TO 189(6),191(1)TO 191(3), 190,192,195 BNS))",Caste,7.0,0.0,2.0,0.0,December
+205,,"RIOTS (Sec.141 to 153 IPC/189(1) TO 189(6),191(1)TO 191(3), 190,192,195 BNS))",Agrarian,1.0,0.0,0.0,0.0,December
+206,,"RIOTS (Sec.141 to 153 IPC/189(1) TO 189(6),191(1)TO 191(3), 190,192,195 BNS))",Others,2381.0,189.0,155.0,172.0,December
+207,,"OFFENCES AGAINST STATE (Sec. 121 to 130, except 124(A) IPC/147 TO 158BNS)",,0.0,0.0,0.0,0.0,December
+208,,"OFFENCES PROMOTING ENEMITY (Sec. 153(A), 154(B) & 505 IPC/196, 197 & 353 BNS",,111.0,5.0,12.0,8.0,December
+209,,CRIMINAL BREACH OF TRUST (Sec. 406 to 409 IPC/316(2) to 316(5) BNS),,569.0,46.0,38.0,59.0,December
+210,,"CHEATING (Sec.417 to 420 IPC/318(2)to 318(4), 319(2) BNS)",,6582.0,670.0,466.0,556.0,December
+211,,"COUNTERFEITING (Sec. 231 to 263 (A), 489(A) to 489 (E) IPC/178 TO 185 BNS)","Stock Share, Debentrue Certificate",0.0,0.0,0.0,0.0,December
+212,,"COUNTERFEITING (Sec. 231 to 263 (A), 489(A) to 489 (E) IPC/178 TO 185 BNS)",Usage of Counterfeit Stamp,0.0,0.0,0.0,0.0,December
+213,,"COUNTERFEITING (Sec. 231 to 263 (A), 489(A) to 489 (E) IPC/178 TO 185 BNS)",Of Coins (Sec 231 to 254 IPC),0.0,0.0,0.0,0.0,December
+214,,"COUNTERFEITING (Sec. 231 to 263 (A), 489(A) to 489 (E) IPC/178 TO 185 BNS)",Of Stamps (Sec.255 to 263(A) IPC),0.0,0.0,0.0,0.0,December
+215,,"COUNTERFEITING (Sec. 231 to 263 (A), 489(A) to 489 (E) IPC/178 TO 185 BNS)",Of Currency Notes And Bank Notes (Sec. 489 (A) to 489 (E) IPC),30.0,4.0,1.0,1.0,December
+216,,"COUNTERFEITING (Sec. 231 to 263 (A), 489(A) to 489 (E) IPC/178 TO 185 BNS)",Of Others,2.0,0.0,0.0,0.0,December
+217,,"FORGERY (Sec. 465, 468, 471, 473, 476, 477 & 477(A) IPC/336(2),336(3),340(2),341(2),342(2),343,
+344 BNS)",Forgery  ,403.0,38.0,46.0,43.0,December
+218,,"FORGERY (Sec. 465, 468, 471, 473, 476, 477 & 477(A) IPC/336(2),336(3),340(2),341(2),342(2),343,
+344 BNS)",Organised (Racket),1.0,0.0,0.0,0.0,December
+219,,"FORGERY (Sec. 465, 468, 471, 473, 476, 477 & 477(A) IPC/336(2),336(3),340(2),341(2),342(2),343,
+344 BNS)",Forgery of Passport,1.0,0.0,0.0,1.0,December
+220,,"FORGERY (Sec. 465, 468, 471, 473, 476, 477 & 477(A) IPC/336(2),336(3),340(2),341(2),342(2),343,
+344 BNS)",Other Forgery,145.0,14.0,15.0,11.0,December
+221,,"CASES OF HURT (Sec. 323 to 335 IPC except 328, 332, 333/115(2) TO 122(2) EXCEPT 121(1),121(2) BNS)",Acid Attack (326(a)),8.0,0.0,1.0,0.0,December
+222,,"CASES OF HURT (Sec. 323 to 335 IPC except 328, 332, 333/115(2) TO 122(2) EXCEPT 121(1),121(2) BNS)",Attempt to Acid Attack (326(b)),1.0,3.0,0.0,0.0,December
+223,,"CASES OF HURT (Sec. 323 to 335 IPC except 328, 332, 333/115(2) TO 122(2) EXCEPT 121(1),121(2) BNS)",Grievous Hurt,1225.0,103.0,76.0,83.0,December
+224,,"CASES OF HURT (Sec. 323 to 335 IPC except 328, 332, 333/115(2) TO 122(2) EXCEPT 121(1),121(2) BNS)",Simple Hurt,15815.0,1299.0,1153.0,1216.0,December
+225,,"CASES OF HURT (Sec. 323 to 335 IPC except 328, 332, 333/115(2) TO 122(2) EXCEPT 121(1),121(2) BNS)",Custodial,2.0,0.0,0.0,1.0,December
+226,,"ADULTERATION (Sec. 272, 273 to 276 IPC/274,275 TO 278 BNS)",Attempt to Commit,0.0,0.0,0.0,0.0,December
+227,,"ADULTERATION (Sec. 272, 273 to 276 IPC/274,275 TO 278 BNS)",Alcoholic Drink (Liquor),4.0,0.0,0.0,0.0,December
+228,,"ADULTERATION (Sec. 272, 273 to 276 IPC/274,275 TO 278 BNS)",Cement & Chemical/Fertiliser,0.0,0.0,0.0,0.0,December
+229,,"ADULTERATION (Sec. 272, 273 to 276 IPC/274,275 TO 278 BNS)",Cosmetics,0.0,0.0,0.0,0.0,December
+230,,"ADULTERATION (Sec. 272, 273 to 276 IPC/274,275 TO 278 BNS)",Diesel,0.0,0.0,0.0,0.0,December
+231,,"ADULTERATION (Sec. 272, 273 to 276 IPC/274,275 TO 278 BNS)",Drug/Medicine,1.0,0.0,1.0,0.0,December
+232,,"ADULTERATION (Sec. 272, 273 to 276 IPC/274,275 TO 278 BNS)",Edible Oil,0.0,0.0,0.0,0.0,December
+233,,"ADULTERATION (Sec. 272, 273 to 276 IPC/274,275 TO 278 BNS)",Food Grain,0.0,0.0,0.0,0.0,December
+234,,"ADULTERATION (Sec. 272, 273 to 276 IPC/274,275 TO 278 BNS)",Kerosene,0.0,0.0,0.0,0.0,December
+235,,"ADULTERATION (Sec. 272, 273 to 276 IPC/274,275 TO 278 BNS)",Life Saving Drug,0.0,0.0,0.0,0.0,December
+236,,"ADULTERATION (Sec. 272, 273 to 276 IPC/274,275 TO 278 BNS)",Mobile Oil,0.0,0.0,0.0,0.0,December
+237,,"ADULTERATION (Sec. 272, 273 to 276 IPC/274,275 TO 278 BNS)",Petrol,0.0,0.0,0.0,0.0,December
+238,,"ADULTERATION (Sec. 272, 273 to 276 IPC/274,275 TO 278 BNS)",Petroleum Product,0.0,0.0,0.0,0.0,December
+239,,"ADULTERATION (Sec. 272, 273 to 276 IPC/274,275 TO 278 BNS)",Soft Drinks,0.0,0.0,0.0,0.0,December
+240,,"ADULTERATION (Sec. 272, 273 to 276 IPC/274,275 TO 278 BNS)",Spices,1.0,0.0,0.0,0.0,December
+241,,"ADULTERATION (Sec. 272, 273 to 276 IPC/274,275 TO 278 BNS)",Others,5.0,2.0,0.0,0.0,December
+242,,AFFRAY (Sec. 160 IPC/194(2) BNS),,496.0,32.0,33.0,34.0,December
+243,,"ARSON (Sec. 435, 436, 438 IPC/326(f),326(g),327(g) BNS)",Agricultural Produce,66.0,6.0,1.0,4.0,December
+244,,"ARSON (Sec. 435, 436, 438 IPC/326(f),326(g),327(g) BNS)",Attemp to Commit,2.0,0.0,1.0,0.0,December
+245,,"ARSON (Sec. 435, 436, 438 IPC/326(f),326(g),327(g) BNS)",Boat / Ship,0.0,0.0,0.0,0.0,December
+246,,"ARSON (Sec. 435, 436, 438 IPC/326(f),326(g),327(g) BNS)",Dwelling House,15.0,2.0,1.0,0.0,December
+247,,"ARSON (Sec. 435, 436, 438 IPC/326(f),326(g),327(g) BNS)",Educational Institution,2.0,0.0,0.0,0.0,December
+248,,"ARSON (Sec. 435, 436, 438 IPC/326(f),326(g),327(g) BNS)",Govt. Property,9.0,1.0,1.0,0.0,December
+249,,"ARSON (Sec. 435, 436, 438 IPC/326(f),326(g),327(g) BNS)",Industrial Establishment,1.0,0.0,0.0,0.0,December
+250,,"ARSON (Sec. 435, 436, 438 IPC/326(f),326(g),327(g) BNS)",Place of worship,0.0,1.0,0.0,0.0,December
+251,,"ARSON (Sec. 435, 436, 438 IPC/326(f),326(g),327(g) BNS)",Public Place,12.0,0.0,2.0,0.0,December
+252,,"ARSON (Sec. 435, 436, 438 IPC/326(f),326(g),327(g) BNS)",Railway Property,0.0,0.0,0.0,0.0,December
+253,,"ARSON (Sec. 435, 436, 438 IPC/326(f),326(g),327(g) BNS)",Vital Installation,0.0,0.0,0.0,0.0,December
+254,,"ARSON (Sec. 435, 436, 438 IPC/326(f),326(g),327(g) BNS)",Warehouse (Godown),3.0,0.0,0.0,0.0,December
+255,,"ARSON (Sec. 435, 436, 438 IPC/326(f),326(g),327(g) BNS)",Others,127.0,12.0,8.0,11.0,December
+256,,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",Attempt To Commit,3.0,1.0,0.0,0.0,December
+257,,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",On Contractor,1.0,0.0,0.0,0.0,December
+258,,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",On Domestic Servant,0.0,0.0,0.0,0.0,December
+259,,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",On Labourer,1.0,0.0,0.0,0.0,December
+260,,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",On Man (General),17.0,0.0,1.0,0.0,December
+261,,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",On Man (SC),1.0,0.0,0.0,0.0,December
+262,,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",On Man (ST),0.0,0.0,0.0,0.0,December
+263,,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",On Manager/Executive (Other Than Public Servant),0.0,0.0,0.0,0.0,December
+264,,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)","On Member of Clergy (Christian, Budhist, Jain, Sikh)",0.0,0.0,0.0,0.0,December
+265,,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",Member of Legislative Assembly / Council (MLA/MLC),0.0,0.0,0.0,0.0,December
+266,,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",On Member of Parliament (MP),0.0,0.0,0.0,0.0,December
+267,,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",On other Dignitaries /Public Figures,2.0,0.0,0.0,0.0,December
+268,,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",On Press,1.0,0.0,0.0,0.0,December
+269,,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",On Professional ,1.0,0.0,0.0,0.0,December
+270,,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",On Public Servant,1.0,0.0,0.0,0.0,December
+271,,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",On Student,0.0,0.0,0.0,0.0,December
+272,,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",On Teacher,0.0,0.0,0.0,0.0,December
+273,,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",On Women (General),5.0,1.0,0.0,0.0,December
+274,,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",On Woman (SC),0.0,0.0,0.0,0.0,December
+275,,"ASSAULT (Sec 356, 357 IPC/134,135 BNS)",On Woman (ST),0.0,0.0,0.0,0.0,December
+276,,COMMUNAL / RELIGION (Sec. 295 to 297 IPC/298 TO 301 BNS),Attempt to Commit,3.0,1.0,0.0,1.0,December
+277,,COMMUNAL / RELIGION (Sec. 295 to 297 IPC/298 TO 301 BNS),Caste Issue,13.0,0.0,0.0,0.0,December
+278,,COMMUNAL / RELIGION (Sec. 295 to 297 IPC/298 TO 301 BNS),Communal Issue,88.0,6.0,3.0,6.0,December
+279,,COMMUNAL / RELIGION (Sec. 295 to 297 IPC/298 TO 301 BNS),Linguistic Issue,0.0,0.0,0.0,0.0,December
+280,,COMMUNAL / RELIGION (Sec. 295 to 297 IPC/298 TO 301 BNS),Political Issue,13.0,0.0,0.0,0.0,December
+281,,COMMUNAL / RELIGION (Sec. 295 to 297 IPC/298 TO 301 BNS),Racial/Ethnic Issue,0.0,0.0,0.0,0.0,December
+282,,COMMUNAL / RELIGION (Sec. 295 to 297 IPC/298 TO 301 BNS),Regional Issue,26.0,2.0,2.0,2.0,December
+283,,COMMUNAL / RELIGION (Sec. 295 to 297 IPC/298 TO 301 BNS),Religious Issue,130.0,6.0,9.0,12.0,December
+284,,COMMUNAL / RELIGION (Sec. 295 to 297 IPC/298 TO 301 BNS),Sectarian Issue,0.0,0.0,0.0,0.0,December
+285,,COMMUNAL / RELIGION (Sec. 295 to 297 IPC/298 TO 301 BNS),Others,73.0,12.0,5.0,6.0,December
+286,,"CRIMINAL CONSPIRACY (Sec. 120(B), 121(A) IPC/61(2),148 BNS)",Conspiracy To Wage War,0.0,1.0,0.0,0.0,December
+287,,"CRIMINAL CONSPIRACY (Sec. 120(B), 121(A) IPC/61(2),148 BNS)",Related to Substantive Offence,3.0,0.0,0.0,0.0,December
+288,,"CRIMINAL CONSPIRACY (Sec. 120(B), 121(A) IPC/61(2),148 BNS)",Others,20.0,9.0,1.0,0.0,December
+289,,CRIMINAL INTIMIDATION (Sec. 504 to 508 IPC/352 TO 354 BNS),,2579.0,258.0,185.0,225.0,December
+290,,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Attempt to Commit,0.0,0.0,0.0,0.0,December
+291,,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Bank,4.0,0.0,0.0,0.0,December
+292,,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Business Establishment,0.0,0.0,0.0,0.0,December
+293,,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Charitable Organisation,0.0,0.0,0.0,0.0,December
+294,,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Chitfund Organisation,0.0,0.0,0.0,0.0,December
+295,,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Co-operative Organisation,0.0,0.0,0.0,0.0,December
+296,,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Commercial Establishment/Shop,0.0,0.0,0.0,0.0,December
+297,,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Customs Department,0.0,0.0,0.0,0.0,December
+298,,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Excise Department,0.0,0.0,0.0,0.0,December
+299,,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Financial Institution,1.0,0.0,0.0,0.0,December
+300,,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Income Tax Department,0.0,0.0,0.0,0.0,December
+301,,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Other Government Organisation,2.0,0.0,1.0,1.0,December
+302,,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Postal Department,0.0,0.0,0.0,0.0,December
+303,,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Public Sector Undertakings,0.0,0.0,0.0,0.0,December
+304,,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Railway Department,0.0,0.0,0.0,0.0,December
+305,,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Revenue Department,0.0,0.0,0.0,0.0,December
+306,,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Sales Tax Department,0.0,0.0,0.0,0.0,December
+307,,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Social Organisation (Aided) (N),0.0,0.0,0.0,0.0,December
+308,,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Transport Authority,0.0,0.0,0.0,0.0,December
+309,,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Trust - Other than religious,0.0,0.0,0.0,0.0,December
+310,,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Trust - Religious,0.0,0.0,0.0,0.0,December
+311,,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC/314,315 BNS)",Others,10.0,0.0,1.0,2.0,December
+312,,CRIMINAL TRESPASS (Sec.447 to 452 IPC/329(3) TO 333 BNS)),Attempt to Commit,12.0,0.0,0.0,0.0,December
+313,,CRIMINAL TRESPASS (Sec.447 to 452 IPC/329(3) TO 333 BNS)),Club,2.0,1.0,1.0,0.0,December
+314,,CRIMINAL TRESPASS (Sec.447 to 452 IPC/329(3) TO 333 BNS)),Hostel,12.0,0.0,1.0,1.0,December
+315,,CRIMINAL TRESPASS (Sec.447 to 452 IPC/329(3) TO 333 BNS)),Hotel,16.0,3.0,1.0,0.0,December
+316,,CRIMINAL TRESPASS (Sec.447 to 452 IPC/329(3) TO 333 BNS)),House,694.0,68.0,66.0,54.0,December
+317,,CRIMINAL TRESPASS (Sec.447 to 452 IPC/329(3) TO 333 BNS)),Land,1500.0,140.0,113.0,128.0,December
+318,,CRIMINAL TRESPASS (Sec.447 to 452 IPC/329(3) TO 333 BNS)),Office,53.0,6.0,2.0,7.0,December
+319,,CRIMINAL TRESPASS (Sec.447 to 452 IPC/329(3) TO 333 BNS)),Prohibited Places,22.0,1.0,1.0,2.0,December
+320,,CRIMINAL TRESPASS (Sec.447 to 452 IPC/329(3) TO 333 BNS)),Religious Place,12.0,2.0,0.0,2.0,December
+321,,CRIMINAL TRESPASS (Sec.447 to 452 IPC/329(3) TO 333 BNS)),Restricted Area,14.0,1.0,1.0,1.0,December
+322,,CRIMINAL TRESPASS (Sec.447 to 452 IPC/329(3) TO 333 BNS)),Others,230.0,25.0,22.0,19.0,December
+323,,CRUELTY BY HUSBAND (Sec. 498(A) IPC85 BNS),Husband ,1085.0,85.0,77.0,80.0,December
+324,,CRUELTY BY HUSBAND (Sec. 498(A) IPC85 BNS),Husband And Relative(S) in Law,1400.0,115.0,96.0,107.0,December
+325,,CRUELTY BY HUSBAND (Sec. 498(A) IPC85 BNS),Relative(S) in Law,25.0,5.0,2.0,1.0,December
+326,,CRUELTY BY HUSBAND (Sec. 498(A) IPC85 BNS),Dowry Harassment,462.0,46.0,38.0,40.0,December
+327,,CRUELTY BY HUSBAND (Sec. 498(A) IPC85 BNS),Prevention of Gaming,3.0,0.0,1.0,0.0,December
+328,,DOWRY DEATHS (Sec.304(B) IPC/80 BNS),By Husband  ,6.0,0.0,1.0,1.0,December
+329,,DOWRY DEATHS (Sec.304(B) IPC/80 BNS),By Husband And Relatives In Law,40.0,1.0,2.0,2.0,December
+330,,DOWRY DEATHS (Sec.304(B) IPC/80 BNS),By Relatives in Law,0.0,0.0,0.0,0.0,December
+331,,DOWRY DEATHS (Sec.304(B) IPC/80 BNS),By Burning,1.0,0.0,0.0,0.0,December
+332,,DOWRY DEATHS (Sec.304(B) IPC/80 BNS),By Hanging,56.0,6.0,2.0,0.0,December
+333,,DOWRY DEATHS (Sec.304(B) IPC/80 BNS),By Other Means,6.0,0.0,0.0,1.0,December
+334,,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Electrocution,21.0,0.0,5.0,1.0,December
+335,,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Adulterated Food/Drug,0.0,0.0,0.0,0.0,December
+336,,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Accident by Air,1.0,0.0,0.0,0.0,December
+337,,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Boad Accident,0.0,0.0,0.0,0.0,December
+338,,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Bridge/Dam Collapse,0.0,0.0,0.0,0.0,December
+339,,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Building Collapse,5.0,0.0,0.0,0.0,December
+340,,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Caused By Animal,4.0,0.0,2.0,0.0,December
+341,,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Death Due to Other Cause,88.0,10.0,3.0,7.0,December
+342,,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Electrocution Accident,54.0,3.0,1.0,4.0,December
+343,,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Explosion Accident,1.0,0.0,0.0,0.0,December
+344,,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Fire accident,4.0,1.0,1.0,0.0,December
+345,,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Gas Leakage Accident,3.0,0.0,0.0,0.0,December
+346,,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Improper Infrastucture In Construction,83.0,9.0,7.0,14.0,December
+347,,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Improper Medical Treatment,4.0,0.0,0.0,0.0,December
+348,,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),In Custody of Public Servant,0.0,0.0,0.0,0.0,December
+349,,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),In Jail/Judicial Custody,1.0,0.0,0.0,0.0,December
+350,,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),In Police Custody,0.0,0.0,0.0,0.0,December
+351,,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Industrial Accident (Factory),6.0,0.0,1.0,0.0,December
+352,,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Inflammable Substance,0.0,0.0,0.0,0.0,December
+353,,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Mine Accident,1.0,1.0,0.0,0.0,December
+354,,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Poisonous Substance,1.0,0.0,0.0,0.0,December
+355,,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Quarry Accident,0.0,0.0,0.0,0.0,December
+356,,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Spurious Liquor (Hooch) Accident,1.0,0.0,0.0,0.0,December
+357,,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Railway Accident,2.0,0.0,0.0,0.0,December
+358,,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC/106 BNS),Others,89.0,5.0,3.0,9.0,December
+359,,MOTOR VEHICLE ACCIDENTS FATAL (Sec.304(A) IPC/106 BNS),National Highways,3914.0,334.0,330.0,309.0,December
+360,,MOTOR VEHICLE ACCIDENTS FATAL (Sec.304(A) IPC/106 BNS),State Highways,3167.0,332.0,270.0,316.0,December
+361,,MOTOR VEHICLE ACCIDENTS FATAL (Sec.304(A) IPC/106 BNS),Other Roads,4222.0,387.0,377.0,345.0,December
+362,,MOTOR VEHICLE ACCIDENTS FATAL (Sec.304(A) IPC/106 BNS),Other Places,177.0,24.0,15.0,13.0,December
+363,,"MOTOR VEHICLE ACCIDENTS NON-FATAL (Sec.279, 337, 338 IPC/281,125(12),125(B) BNS))",National Highways,10325.0,926.0,890.0,926.0,December
+364,,"MOTOR VEHICLE ACCIDENTS NON-FATAL (Sec.279, 337, 338 IPC/281,125(12),125(B) BNS))",State Highways,7111.0,646.0,595.0,653.0,December
+365,,"MOTOR VEHICLE ACCIDENTS NON-FATAL (Sec.279, 337, 338 IPC/281,125(12),125(B) BNS))",Other Roads,13731.0,1303.0,1159.0,1245.0,December
+366,,"MOTOR VEHICLE ACCIDENTS NON-FATAL (Sec.279, 337, 338 IPC/281,125(12),125(B) BNS))",Other Places,421.0,35.0,39.0,37.0,December
+367,,"DEATHS-MISCARRIAGE (Sec.312, 313, 314 IPC/88,89,90 BNS)",Child,21.0,1.0,3.0,0.0,December
+368,,"DEATHS-MISCARRIAGE (Sec.312, 313, 314 IPC/88,89,90 BNS)",Woman,6.0,0.0,0.0,1.0,December
+369,,"DEATHS-MISCARRIAGE (Sec.312, 313, 314 IPC/88,89,90 BNS)",Women and Child,3.0,0.0,0.0,0.0,December
+370,,"DEFENCE FORCES OFFENCES RELATING (also relating to desertion) (Sec.131 to 140, except 136 IPC/159 TO 168 EXCEPT 164 BNS)",Air Force,1.0,0.0,0.0,0.0,December
+371,,"DEFENCE FORCES OFFENCES RELATING (also relating to desertion) (Sec.131 to 140, except 136 IPC/159 TO 168 EXCEPT 164 BNS)",Army,0.0,0.0,0.0,0.0,December
+372,,"DEFENCE FORCES OFFENCES RELATING (also relating to desertion) (Sec.131 to 140, except 136 IPC/159 TO 168 EXCEPT 164 BNS)",Navy,0.0,0.0,0.0,0.0,December
+373,,"ESCAPE FROM LAWFUL CUSTODY AND RESISTANCE (Sec.224, 225, 225(B) IPC/262,263,265 BNS)",From Jail Custody,4.0,0.0,0.0,0.0,December
+374,,"ESCAPE FROM LAWFUL CUSTODY AND RESISTANCE (Sec.224, 225, 225(B) IPC/262,263,265 BNS)",From Police Custody,24.0,0.0,2.0,1.0,December
+375,,"ESCAPE FROM LAWFUL CUSTODY AND RESISTANCE (Sec.224, 225, 225(B) IPC/262,263,265 BNS)",Others,6.0,0.0,0.0,0.0,December
+376,,"IMPERSONATION (Sec.170, 171 IPC/204,205 BNS)",Attempt to Commit,2.0,0.0,0.0,0.0,December
+377,,"IMPERSONATION (Sec.170, 171 IPC/204,205 BNS)",Non-Uniformed Authority,4.0,1.0,0.0,0.0,December
+378,,"IMPERSONATION (Sec.170, 171 IPC/204,205 BNS)",Uniformed Authority,0.0,0.0,0.0,0.0,December
+379,,"MISCHIEF (Sec.427 to 440 except 434, 435, 436, 438 IPC/324(4) TO 324(6) BNS)",,426.0,30.0,36.0,35.0,December
+380,,MOLESTATION (Sec.354 IPC/74 BNS),Attempt to Commit,75.0,5.0,7.0,6.0,December
+381,,MOLESTATION (Sec.354 IPC/74 BNS),Private Place,1068.0,92.0,68.0,72.0,December
+382,,MOLESTATION (Sec.354 IPC/74 BNS),Public Conveyance,10.0,1.0,0.0,1.0,December
+383,,MOLESTATION (Sec.354 IPC/74 BNS),Public Place,2304.0,215.0,168.0,139.0,December
+384,,MOLESTATION (Sec.354 IPC/74 BNS),Other Places,2854.0,237.0,189.0,201.0,December
+385,,POISONING-PROFESSIONAL (Sec. 328 IPC/123 BNS),Attempt to Commit,6.0,1.0,1.0,1.0,December
+386,,POISONING-PROFESSIONAL (Sec. 328 IPC/123 BNS),Fatal,2.0,0.0,0.0,0.0,December
+387,,POISONING-PROFESSIONAL (Sec. 328 IPC/123 BNS),Non Fatal,5.0,1.0,0.0,1.0,December
+388,,PORNOGRAPHY (Sec.292 to 294 IPC/294 TO 296 BNS),Advertisement,0.0,0.0,0.0,0.0,December
+389,,PORNOGRAPHY (Sec.292 to 294 IPC/294 TO 296 BNS),Audio Tape,0.0,0.0,0.0,0.0,December
+390,,PORNOGRAPHY (Sec.292 to 294 IPC/294 TO 296 BNS),Book,0.0,0.0,0.0,0.0,December
+391,,PORNOGRAPHY (Sec.292 to 294 IPC/294 TO 296 BNS),Computer Software,0.0,0.0,0.0,0.0,December
+392,,PORNOGRAPHY (Sec.292 to 294 IPC/294 TO 296 BNS),Figures,0.0,0.0,0.0,0.0,December
+393,,PORNOGRAPHY (Sec.292 to 294 IPC/294 TO 296 BNS),Film (Blue),0.0,0.0,0.0,0.0,December
+394,,PORNOGRAPHY (Sec.292 to 294 IPC/294 TO 296 BNS),Painting,0.0,0.0,0.0,0.0,December
+395,,PORNOGRAPHY (Sec.292 to 294 IPC/294 TO 296 BNS),Pamphlet,0.0,0.0,0.0,0.0,December
+396,,PORNOGRAPHY (Sec.292 to 294 IPC/294 TO 296 BNS),Paper,0.0,0.0,0.0,0.0,December
+397,,PORNOGRAPHY (Sec.292 to 294 IPC/294 TO 296 BNS),Photography,0.0,0.0,0.0,0.0,December
+398,,PORNOGRAPHY (Sec.292 to 294 IPC/294 TO 296 BNS),Poster,0.0,0.0,0.0,0.0,December
+399,,PORNOGRAPHY (Sec.292 to 294 IPC/294 TO 296 BNS),Video Film(Blue),1.0,0.0,0.0,0.0,December
+400,,PORNOGRAPHY (Sec.292 to 294 IPC/294 TO 296 BNS),Others,2.0,1.0,0.0,0.0,December
+401,,PUBLIC JUSTICE (Sec.213 to 215 IPC/250 TO 252 BNS),,3.0,0.0,0.0,0.0,December
+402,,"PUBLIC NUISANCE (Sec.291 and 510 IPC/293,355 BNS)",,121.0,8.0,13.0,13.0,December
+403,,"PUBLIC SAFETY (Sec.269 to 271, 277, 283, 289 IPC)",,3286.0,338.0,257.0,242.0,December
+404,,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC/217-223,121(1),121(2), 132 BNS))",Attempt to Commit,15.0,4.0,2.0,0.0,December
+405,,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC/217-223,121(1),121(2), 132 BNS))",Defence Personnel,4.0,0.0,0.0,1.0,December
+406,,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC/217-223,121(1),121(2), 132 BNS))",Jail Personnel,10.0,0.0,0.0,0.0,December
+407,,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC/217-223,121(1),121(2), 132 BNS))",Judicial Official,20.0,1.0,4.0,4.0,December
+408,,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC/217-223,121(1),121(2), 132 BNS))",Minister,1.0,0.0,1.0,0.0,December
+409,,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC/217-223,121(1),121(2), 132 BNS))",MLA,0.0,0.0,0.0,0.0,December
+410,,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC/217-223,121(1),121(2), 132 BNS))",MP,1.0,0.0,0.0,0.0,December
+411,,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC/217-223,121(1),121(2), 132 BNS))",Nationalised Bank Personnel,1.0,1.0,0.0,0.0,December
+412,,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC/217-223,121(1),121(2), 132 BNS))",Other Elected Member,4.0,0.0,1.0,0.0,December
+413,,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC/217-223,121(1),121(2), 132 BNS))",Other Enforcement Official,7.0,0.0,0.0,0.0,December
+414,,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC/217-223,121(1),121(2), 132 BNS))",Other Govt. Official,411.0,31.0,39.0,39.0,December
+415,,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC/217-223,121(1),121(2), 132 BNS))",Para Military Personnel,3.0,0.0,0.0,0.0,December
+416,,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC/217-223,121(1),121(2), 132 BNS))",Police Personnel,384.0,38.0,24.0,28.0,December
+417,,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC/217-223,121(1),121(2), 132 BNS))",Public Sector Undertaking Official,113.0,11.0,7.0,16.0,December
+418,,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 139, 167, 218, 221, 222 IPC/156,157,201,256,259,260 BNS)",Defence Personnel,0.0,0.0,0.0,0.0,December
+419,,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 139, 167, 218, 221, 222 IPC/156,157,201,256,259,260 BNS)",Jail Personnel,1.0,0.0,0.0,0.0,December
+420,,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 139, 167, 218, 221, 222 IPC/156,157,201,256,259,260 BNS)",Judicial Official,0.0,0.0,0.0,0.0,December
+421,,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 139, 167, 218, 221, 222 IPC/156,157,201,256,259,260 BNS)",Minister,0.0,0.0,0.0,0.0,December
+422,,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 139, 167, 218, 221, 222 IPC/156,157,201,256,259,260 BNS)",MLA,0.0,0.0,0.0,0.0,December
+423,,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 139, 167, 218, 221, 222 IPC/156,157,201,256,259,260 BNS)",MP,0.0,0.0,0.0,0.0,December
+424,,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 139, 167, 218, 221, 222 IPC/156,157,201,256,259,260 BNS)",Nationalised Bank Personnel,0.0,0.0,0.0,0.0,December
+425,,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 139, 167, 218, 221, 222 IPC/156,157,201,256,259,260 BNS)",Other Elected Member,0.0,0.0,0.0,0.0,December
+426,,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 139, 167, 218, 221, 222 IPC/156,157,201,256,259,260 BNS)",Other Enforcement Official,0.0,0.0,0.0,0.0,December
+427,,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 139, 167, 218, 221, 222 IPC/156,157,201,256,259,260 BNS)",Other Govt. Official,4.0,0.0,0.0,0.0,December
+428,,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 139, 167, 218, 221, 222 IPC/156,157,201,256,259,260 BNS)",Para Military Personnel,0.0,0.0,0.0,0.0,December
+429,,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 139, 167, 218, 221, 222 IPC/156,157,201,256,259,260 BNS)",Police Personnel,4.0,0.0,0.0,0.0,December
+430,,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 139, 167, 218, 221, 222 IPC/156,157,201,256,259,260 BNS)",Public Sector Undertaking Official,0.0,0.0,0.0,0.0,December
+431,,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 139, 167, 218, 221, 222 IPC/156,157,201,256,259,260 BNS)",Others,1.0,0.0,1.0,0.0,December
+432,,"NEGLIGENT ACT (Sec.280 to 289, 336 to 338 except 283 IPC/282 to 291,125 to 125(b) except 285 BNS)",Death Causeed By Electric Shock,85.0,8.0,4.0,8.0,December
+433,,"NEGLIGENT ACT (Sec.280 to 289, 336 to 338 except 283 IPC/282 to 291,125 to 125(b) except 285 BNS)",Animal -Related,67.0,9.0,5.0,7.0,December
+434,,"NEGLIGENT ACT (Sec.280 to 289, 336 to 338 except 283 IPC/282 to 291,125 to 125(b) except 285 BNS)",Boat/Vessel - Related,7.0,1.0,1.0,0.0,December
+435,,"NEGLIGENT ACT (Sec.280 to 289, 336 to 338 except 283 IPC/282 to 291,125 to 125(b) except 285 BNS)",Explosive/Explosive Substances - Related,70.0,2.0,6.0,5.0,December
+436,,"NEGLIGENT ACT (Sec.280 to 289, 336 to 338 except 283 IPC/282 to 291,125 to 125(b) except 285 BNS)",Inflammable Substance- Related ,30.0,0.0,2.0,2.0,December
+437,,"NEGLIGENT ACT (Sec.280 to 289, 336 to 338 except 283 IPC/282 to 291,125 to 125(b) except 285 BNS)",Machinery - Related,132.0,11.0,15.0,14.0,December
+438,,"NEGLIGENT ACT (Sec.280 to 289, 336 to 338 except 283 IPC/282 to 291,125 to 125(b) except 285 BNS)",Poisonous Substance - Related,7.0,0.0,0.0,1.0,December
+439,,"NEGLIGENT ACT (Sec.280 to 289, 336 to 338 except 283 IPC/282 to 291,125 to 125(b) except 285 BNS)",Other - Related,1550.0,92.0,82.0,162.0,December
+440,,"NEGLIGENT ACT (Sec.280 to 289, 336 to 338 except 283 IPC/282 to 291,125 to 125(b) except 285 BNS)",Human - Related,809.0,47.0,53.0,114.0,December
+441,,RECEIVING OF STOLEN PROPERTY (Sec.411 to 414 IPC/317(2) TO 317(5) BNS),,1.0,0.0,0.0,0.0,December
+442,,SEDITION (Sec. 124A IPC/IN BNS Deleted),Attempt to Commit,0.0,0.0,0.0,0.0,December
+443,,SEDITION (Sec. 124A IPC/IN BNS Deleted),By Foreigner,0.0,0.0,0.0,0.0,December
+444,,SEDITION (Sec. 124A IPC/IN BNS Deleted),By National,0.0,0.0,0.0,0.0,December
+445,,SEDITION (Sec. 124A IPC/IN BNS Deleted),By National And Foreigner,0.0,0.0,0.0,0.0,December
+446,,INSULTING MODESTY OF WOMEN (EVE TEASING) (Sec.509 IPC/79 BNS),Attempt to Commit,2.0,0.0,0.0,0.0,December
+447,,INSULTING MODESTY OF WOMEN (EVE TEASING) (Sec.509 IPC/79 BNS),Office,10.0,0.0,0.0,2.0,December
+448,,INSULTING MODESTY OF WOMEN (EVE TEASING) (Sec.509 IPC/79 BNS),Public Conveyance,2.0,2.0,0.0,0.0,December
+449,,INSULTING MODESTY OF WOMEN (EVE TEASING) (Sec.509 IPC/79 BNS),Public Place,71.0,3.0,7.0,9.0,December
+450,,INSULTING MODESTY OF WOMEN (EVE TEASING) (Sec.509 IPC/79 BNS),Other Places,95.0,7.0,8.0,8.0,December
+451,,"SUICIDE (Sec.305, 306, 309 IPC107,108 BNS)",Dowry,4.0,0.0,0.0,0.0,December
+452,,"SUICIDE (Sec.305, 306, 309 IPC107,108 BNS)",Abetment of Suicide,330.0,26.0,37.0,33.0,December
+453,,"SUICIDE (Sec.305, 306, 309 IPC107,108 BNS)",Other Reasons,277.0,20.0,25.0,24.0,December
+454,,"SUICIDE (Sec.305, 306, 309 IPC107,108 BNS)",Attempt to Commit suicide,93.0,14.0,7.0,6.0,December
+455,,UNNATURAL SEX (Sec.377 IPC/IN BNS Deleted),Abetment  ,0.0,0.0,0.0,0.0,December
+456,,UNNATURAL SEX (Sec.377 IPC/IN BNS Deleted),Animal  ,0.0,0.0,0.0,0.0,December
+457,,UNNATURAL SEX (Sec.377 IPC/IN BNS Deleted),Attempt,0.0,0.0,0.0,0.0,December
+458,,UNNATURAL SEX (Sec.377 IPC/IN BNS Deleted),Major - Man,5.0,0.0,0.0,1.0,December
+459,,UNNATURAL SEX (Sec.377 IPC/IN BNS Deleted),Major - Woman,1.0,0.0,0.0,0.0,December
+460,,UNNATURAL SEX (Sec.377 IPC/IN BNS Deleted),Minor - Boy,0.0,0.0,0.0,0.0,December
+461,,UNNATURAL SEX (Sec.377 IPC/IN BNS Deleted),Minor - Girl,0.0,0.0,0.0,0.0,December
+462,,"WRONGFUL RESTRAINT/CONFINEMENT (Sec.341 to 348 IPC/126(2),127(2)-127(8) BNS)",Attempt to Commit,23.0,2.0,0.0,1.0,December
+463,,"WRONGFUL RESTRAINT/CONFINEMENT (Sec.341 to 348 IPC/126(2),127(2)-127(8) BNS)",To Extort Confession,7.0,1.0,1.0,0.0,December
+464,,"WRONGFUL RESTRAINT/CONFINEMENT (Sec.341 to 348 IPC/126(2),127(2)-127(8) BNS)",To Extort Property,23.0,2.0,0.0,2.0,December
+465,,"WRONGFUL RESTRAINT/CONFINEMENT (Sec.341 to 348 IPC/126(2),127(2)-127(8) BNS)",To settle Dispute,15.0,2.0,2.0,0.0,December
+466,,"WRONGFUL RESTRAINT/CONFINEMENT (Sec.341 to 348 IPC/126(2),127(2)-127(8) BNS)",Others,363.0,36.0,23.0,38.0,December
+467,,"INFANTICIDE (Sec.315, 316 IPC/91,92 BNS)",Male,1.0,0.0,0.0,0.0,December
+468,,"INFANTICIDE (Sec.315, 316 IPC/91,92 BNS)",Female,1.0,1.0,0.0,0.0,December
+469,,"OFFENCES RELATED TO MARRIAGE (Sec.493 to 498 IPC/81,84 BNS)",,40.0,5.0,6.0,5.0,December
+470,,"BUYING & SELLING MINOR FOR PROSTITUTION (Sec.372, 373 IPC/98,99 BNS)",,0.0,0.0,0.0,0.0,December
+471,,DOCUMENTS & PROPERTY MARKS (Sec.483 to 489 IPC/346-350(2) BNS),Documents  ,1.0,0.0,0.0,0.0,December
+472,,DOCUMENTS & PROPERTY MARKS (Sec.483 to 489 IPC/346-350(2) BNS),Property  ,1.0,0.0,0.0,0.0,December
+473,,DEFAMATION (Sec.500 to 502 IPC/350(2)-356(4) BNS),Persons ,6.0,1.0,1.0,0.0,December
+474,,DEFAMATION (Sec.500 to 502 IPC/350(2)-356(4) BNS),Printed Matter,3.0,0.0,0.0,1.0,December
+475,,DEFAMATION (Sec.500 to 502 IPC/350(2)-356(4) BNS),Others,2.0,1.0,0.0,0.0,December
+476,,ELECTION(Sec.171(E) to 171(1) IPC/173-177 BNS),Assembly,16.0,0.0,7.0,0.0,December
+477,,ELECTION(Sec.171(E) to 171(1) IPC/173-177 BNS),Parliament,153.0,0.0,0.0,0.0,December
+478,,ELECTION(Sec.171(E) to 171(1) IPC/173-177 BNS),Other Elected Bodies,14.0,0.0,0.0,1.0,December
+479,,ELECTION(Sec.171(E) to 171(1) IPC/173-177 BNS),Sub Total,183.0,0.0,7.0,1.0,December
+480,,ELECTION(Sec.171(E) to 171(1) IPC/173-177 BNS),"SLAVERY (Sec.370, 371, 374 IPC/143,145,146 BNS)",,,,,December
+481,,ELECTION(Sec.171(E) to 171(1) IPC/173-177 BNS),Man,1.0,0.0,1.0,0.0,December
+482,,ELECTION(Sec.171(E) to 171(1) IPC/173-177 BNS),Woman,0.0,0.0,0.0,0.0,December
+483,,ELECTION(Sec.171(E) to 171(1) IPC/173-177 BNS),Boy,3.0,0.0,3.0,0.0,December
+484,,ELECTION(Sec.171(E) to 171(1) IPC/173-177 BNS),Girl,0.0,0.0,0.0,0.0,December
+485,,Attempting to commit offences (Sec.511 IPC/62 BNS),Attempting to commit offences,224.0,24.0,17.0,22.0,December
+486,,ILLEGAL DETENTION (Sec.342 IPC/127(2) BNS),,0.0,0.0,0.0,0.0,December
+487,,FALSE EVIDENCE (Sec.191 to 205 IPC/227-242 BNS),,8.0,0.0,1.0,1.0,December
+488,,EXPOSURE AND ABANDONMENT OF CHILD (Sec.317 IPC/93 BNS),Boy ,30.0,0.0,1.0,1.0,December
+489,,EXPOSURE AND ABANDONMENT OF CHILD (Sec.317 IPC/93 BNS),Girl,36.0,2.0,4.0,8.0,December
+490,,OF ABETMENT (Sec.107 to 120 IPC/45-60 BNS),,9.0,0.0,0.0,0.0,December
+491,,"FAILURE TO APPEAR TO COURT (Sec.174, 229A IPC/209,269 BNS)",IPC 174 A/BNS 209,110.0,10.0,14.0,19.0,December
+492,,"FAILURE TO APPEAR TO COURT (Sec.174, 229A IPC/209,269 BNS)",IPC 229 A/BNS 269,566.0,32.0,69.0,175.0,December
+493,,,Girl,15.0,6.0,1.0,4.0,December
+494,,Concealment of birth by secret disposal of Child,Boy,33.0,6.0,3.0,4.0,December
+495,,ASSAULT OR USE OF CRIMINAL FORCE TO DISROBE WOMEN,,15.0,1.0,2.0,3.0,December
+496,,Disobedience to Order Promulgated by Public/Servant,By Others,13.0,3.0,0.0,0.0,December
+497,,Disobedience to Order Promulgated by Public/Servant,By Private Institution,13.0,2.0,0.0,1.0,December
+498,,Disobedience to Order Promulgated by Public/Servant,By Govt. Institution,1.0,0.0,0.0,0.0,December
+499,,Disobedience to Order Promulgated by Public/Servant,Sub Total,27.0,5.0,0.0,1.0,December
+500,,Disobedience to Order Promulgated by Public/Servant,Human Trafficking,,,,,December
+501,,Disobedience to Order Promulgated by Public/Servant,Eunuch,3.0,1.0,0.0,1.0,December
+502,,Disobedience to Order Promulgated by Public/Servant,Men,1.0,0.0,0.0,0.0,December
+503,,Disobedience to Order Promulgated by Public/Servant,Boy,0.0,0.0,0.0,0.0,December
+504,,Disobedience to Order Promulgated by Public/Servant,Women,4.0,0.0,1.0,0.0,December
+505,,Disobedience to Order Promulgated by Public/Servant,Girl,7.0,1.0,0.0,0.0,December
+506,,Aadhaar Act,Impersonation,1.0,0.0,0.0,0.0,December
+507,,Aadhaar Act,Offence by Company,0.0,0.0,0.0,0.0,December
+508,,Aadhaar Act,Offence by individual,2.0,0.0,2.0,0.0,December
+509,,Giving false information respecting an offence committed,Giving false information respecting an offence committed,3.0,0.0,0.0,0.0,December
+510,,ANTIQUES (CULTURAL PROPERTY),Antiques & Art Treasures Act 1972,0.0,0.0,0.0,0.0,December
+511,,ANTIQUES (CULTURAL PROPERTY),Ancient Monument & Archaelogical Sites And Remains Act 1958,9.0,1.0,0.0,5.0,December
+512,,ARMS ACT 1959,Country Made - Non Prohibited Bore - In Disturbed Area,19.0,2.0,0.0,1.0,December
+513,,ARMS ACT 1960,Country Made - Non Prohibited Bore - In Other Area,102.0,3.0,5.0,8.0,December
+514,,ARMS ACT 1961,Country Made - Prohibited Bore - In Disturbed Area,15.0,1.0,2.0,0.0,December
+515,,ARMS ACT 1962,Country Made - Prohibited Bore - In Other Area,76.0,4.0,5.0,3.0,December
+516,,ARMS ACT 1963,Factory Made - Non Prohibited Bore - In Disturbed Area,5.0,1.0,1.0,0.0,December
+517,,ARMS ACT 1964,Factory Made - Non Prohibited Bore - In Other Area,26.0,2.0,4.0,1.0,December
+518,,ARMS ACT 1965,Factory Made - Prohibited Bore - In Disturbed Area,4.0,0.0,0.0,1.0,December
+519,,ARMS ACT 1966,Factory Made - Prohibited Bore - In Other Area,32.0,1.0,4.0,3.0,December
+520,,ANIMAL,The Karnataka Prevention of Slaughter and Preservation of Cattle Ordinance 2020,143.0,8.0,10.0,9.0,December
+521,,ANIMAL,Wild Life Preservation Act 1972,0.0,0.0,0.0,0.0,December
+522,,ANIMAL,Wild Life Protection Act 1972,2.0,0.0,0.0,0.0,December
+523,,ANIMAL,Prevention of Cruelty to Animals Act 1960,174.0,11.0,16.0,23.0,December
+524,,ANIMAL,Elephant (Preservation) Act 1879,0.0,0.0,0.0,0.0,December
+525,,ANIMAL,Cattle Tresspass Act 1871,4.0,0.0,0.0,1.0,December
+526,,CINEMATOGRAPHY ACT 1952,Films,2.0,0.0,0.0,0.0,December
+527,,CINEMATOGRAPHY ACT 1953,Video,0.0,0.0,0.0,0.0,December
+528,,CONSUMER,Liquified Petroleum Gas Supply & Control Order 2000 ,68.0,9.0,6.0,4.0,December
+529,,CONSUMER,Consumer (Protection) Act 1986,7.0,1.0,0.0,0.0,December
+530,,CONSUMER,Essential Commodities Act 1955,427.0,60.0,32.0,17.0,December
+531,,CONSUMER,Prevention of Food Adulternation Act 1954,3.0,0.0,0.0,0.0,December
+532,,CONSUMER,Packaged Commodities (Regulation) order 1975,0.0,0.0,0.0,0.0,December
+533,,COPY RIGHT ACT 1957,By Company,145.0,13.0,14.0,9.0,December
+534,,COPY RIGHT ACT 1958,By Individual,83.0,5.0,11.0,5.0,December
+535,,COPY RIGHT ACT 1959,Sub Total,228.0,18.0,25.0,14.0,December
+536,,COPY RIGHT ACT 1960,CIVIL RIGHTS,,,,,December
+537,,COPY RIGHT ACT 1961,Protection of Civil Rights Act 1955,4.0,0.0,1.0,1.0,December
+538,,SCHEDULED CASTE AND THE SCHEDULED TRIBES,Scheduled Caste  ,1285.0,115.0,99.0,107.0,December
+539,,SCHEDULED CASTE AND THE SCHEDULED TRIBES,Scheduled Tribes,236.0,24.0,17.0,13.0,December
+540,,SCHEDULED CASTE AND THE SCHEDULED TRIBES,Scheduled Caste Women,494.0,39.0,36.0,39.0,December
+541,,SCHEDULED CASTE AND THE SCHEDULED TRIBES,Scheduled Tribes Women,110.0,15.0,2.0,10.0,December
+542,,CHILDREN ACT,Child Labour (Prohibition & Regulation) Act1986,105.0,11.0,11.0,3.0,December
+543,,CHILDREN ACT,Child Marriage (Restraint) Act - 1929,152.0,11.0,11.0,10.0,December
+544,,CHILDREN ACT,Juvenile Justice Act 1986,142.0,9.0,8.0,13.0,December
+545,,CHILDREN ACT,Probation of offenders Act 1958,1.0,0.0,0.0,0.0,December
+546,,CHILDREN ACT,Protection of Children from Sexual Offences Act 2012 (POCSO),0.0,0.0,0.0,0.0,December
+547,,PREVENTION OF CORRUPTION ACT 1988,Public Servant - Elected,0.0,0.0,0.0,0.0,December
+548,,PREVENTION OF CORRUPTION ACT 1989,Public Servant - Gazetted - Central,0.0,0.0,0.0,0.0,December
+549,,PREVENTION OF CORRUPTION ACT 1990,Public Servant - Gazetted - Defence,0.0,0.0,0.0,0.0,December
+550,,PREVENTION OF CORRUPTION ACT 1991,Public Servant - Gazetted - Public Sector Undertaking,0.0,0.0,0.0,0.0,December
+551,,PREVENTION OF CORRUPTION ACT 1992,Public Servant - Gazetted - State,0.0,0.0,0.0,0.0,December
+552,,PREVENTION OF CORRUPTION ACT 1993,Public Servant - Non-Gazetted - Central,0.0,0.0,0.0,0.0,December
+553,,PREVENTION OF CORRUPTION ACT 1994,Public Servant - Non-Gazetted - Defence,0.0,0.0,0.0,0.0,December
+554,,PREVENTION OF CORRUPTION ACT 1995,Public Servant - Non-Gazetted - State,0.0,0.0,0.0,0.0,December
+555,,CUSTOMS,Customs Act 1962,0.0,0.0,0.0,0.0,December
+556,,CUSTOMS,Import/Export (Control) Act 1947,0.0,0.0,0.0,0.0,December
+557,,Explosives,Explosives Substances Act 1908,30.0,1.0,3.0,4.0,December
+558,,Explosives,Explosives Act 1884,112.0,7.0,13.0,2.0,December
+559,,Explosives,Inflammable Substance Act 1952,0.0,0.0,0.0,0.0,December
+560,,FOREIGN EXCHANGE,Smugglers and Foreign Exchange Manipulator Act 1976,0.0,0.0,0.0,0.0,December
+561,,FOREIGN EXCHANGE,Foreign Exchange Regulation Act 1973,0.0,0.0,0.0,0.0,December
+562,,FOREIGN EXCHANGE,Foreign Exchange Regulation Act 1952,0.0,0.0,0.0,0.0,December
+563,,FOREIGNER,Foreigners Act 1946,57.0,3.0,3.0,3.0,December
+564,,FOREIGNER,Registration of Foreigners Act 1939,0.0,0.0,0.0,0.0,December
+565,,FOREST,Indian Forest Act 1927,2.0,1.0,0.0,0.0,December
+566,,FOREST,Forest (Conservation) Act 1980,8.0,0.0,1.0,0.0,December
+567,,HIJACKING,Foreign Aircraft - In India,0.0,0.0,0.0,0.0,December
+568,,HIJACKING,Foreign Aircraft - Outside India,0.0,0.0,0.0,0.0,December
+569,,HIJACKING,Indian Aircraft - In India,0.0,0.0,0.0,0.0,December
+570,,HIJACKING,Indian Aircraft - Outside India,0.0,0.0,0.0,0.0,December
+571,,IMMORAL TRAFFIC,Organised,215.0,21.0,22.0,10.0,December
+572,,IMMORAL TRAFFIC,Un-Organised,84.0,12.0,8.0,9.0,December
+573,,BONDED LABOUR SYSTEM,,4.0,1.0,1.0,0.0,December
+574,,INDIAN MOTOR VEHICLE,,305.0,1.0,2.0,5.0,December
+575,,NARCOTIC DRUGS & PSYCHOTROPIC SUBSTANCES ACT,Cultivated/Processed,1653.0,212.0,191.0,211.0,December
+576,,NARCOTIC DRUGS & PSYCHOTROPIC SUBSTANCES ACT,Synthetic,2534.0,301.0,233.0,440.0,December
+577,,PASSPORT ACT,Foreigner,3.0,0.0,0.0,0.0,December
+578,,PASSPORT ACT,Indian,2.0,0.0,0.0,1.0,December
+579,,REPRESENTATIVE OF PEOPLE ACT 1951 & 1988,Assembly,19.0,1.0,12.0,0.0,December
+580,,REPRESENTATIVE OF PEOPLE ACT 1951 & 1989,Parliament,104.0,0.0,0.0,0.0,December
+581,,REPRESENTATIVE OF PEOPLE ACT 1951 & 1990,Other Elected Bodies,10.0,0.0,0.0,0.0,December
+582,,KARNATAKA POLICE ACT 1963,Gambling - Matka (78 Class C),5874.0,538.0,756.0,1039.0,December
+583,,KARNATAKA POLICE ACT 1964,Street Gambling (87),6304.0,427.0,957.0,484.0,December
+584,,KARNATAKA POLICE ACT 1965,House Gambling (79 & 80),264.0,34.0,21.0,20.0,December
+585,,KARNATAKA POLICE ACT 1966,Betting ,432.0,7.0,8.0,16.0,December
+586,,KARNATAKA POLICE ACT 1967,Others ,516.0,65.0,21.0,23.0,December
+587,,PREVENTION OF DAMAGE TO PUBLIC PROPERTY ACT 1984,,155.0,11.0,10.0,9.0,December
+588,,"POST & TELEGRAPH, TELEGRAPH WIRES (UNLAWFUL POSSESSION) ACT 1980",,2.0,0.0,0.0,0.0,December
+589,,OFFICIAL SECURITY RELATED ACTS,Official Secrets Act 1923,0.0,0.0,0.0,0.0,December
+590,,OFFICIAL SECURITY RELATED ACTS,Essential Services Maintenance Act 1981,0.0,0.0,0.0,0.0,December
+591,,PREVENTION OF TERRORISM ACT (POTA),,0.0,0.0,0.0,0.0,December
+592,,RAILWAYS ACT,Indian Railways Act 1989,1.0,0.0,0.0,0.0,December
+593,,RAILWAYS ACT,Railway Property (Unlawful Possession) Act 1966,0.0,0.0,0.0,0.0,December
+594,,UNLAWFUL ACTIVITIES (Prevention) Act 1967,,7.0,0.0,2.0,0.0,December
+595,,CRIMES RELATED TO WOMEN,Dowry Prohibition,1913.0,219.0,129.0,138.0,December
+596,,CRIMES RELATED TO WOMEN,Commission of SATI (Prevention) Act 1987,0.0,0.0,0.0,0.0,December
+597,,CRIMES RELATED TO WOMEN,Indecent Representation of Women (Prohibition) Act 1986,1.0,0.0,0.0,0.0,December
+598,,INDIAN LUNACY ACT,,0.0,0.0,0.0,0.0,December
+599,,INDIAN ELECTRICITY ACT,,8.0,3.0,1.0,1.0,December
+600,,"COTPA, CIGARETTES AND OTHER TOBACCO PRODUCTS",,1139.0,125.0,147.0,208.0,December
+601,,KARNATAKA STATE LOCAL ACTS,Prevention of Insult to National Hounours Act 1971,10.0,0.0,1.0,0.0,December
+602,,KARNATAKA STATE LOCAL ACTS,"Prevention of violence against Doctors, Medical professionals and Medical institutions",13.0,2.0,2.0,2.0,December
+603,,KARNATAKA STATE LOCAL ACTS,"The Karnataka Prevention of Dangerous Activities of Bootleggers, Drug-offenders, Gamblers, Goonda Act",0.0,0.0,0.0,0.0,December
+604,,KARNATAKA STATE LOCAL ACTS,Karnataka Cow Slaughters Act,236.0,13.0,10.0,13.0,December
+605,,KARNATAKA STATE LOCAL ACTS,Banning of Unregulated Deposit Schemes Act,19.0,5.0,1.0,2.0,December
+606,,KARNATAKA STATE LOCAL ACTS,"Motor Spirit and High Speed Diesel (Regulation of upply, Distribution and Prevention of Malpractice",0.0,0.0,0.0,0.0,December
+607,,KARNATAKA STATE LOCAL ACTS,Karnataka Epidemic Deseases Act 2020,0.0,0.0,0.0,0.0,December
+608,,KARNATAKA STATE LOCAL ACTS,Karnataka Prevention of Slaughter and Preservation of Cattle Act 2020,204.0,11.0,6.0,27.0,December
+609,,KARNATAKA STATE LOCAL ACTS,Disaster Management Act 2005,1.0,0.0,0.0,0.0,December
+610,,KARNATAKA STATE LOCAL ACTS,Karnataka Excise Act 1965,8278.0,455.0,873.0,1498.0,December
+611,,KARNATAKA STATE LOCAL ACTS,Karnataka Forest Act 1963,65.0,5.0,5.0,7.0,December
+612,,KARNATAKA STATE LOCAL ACTS,Karnataka Education Act 1983 As Amended Upto Date,7.0,0.0,1.0,0.0,December
+613,,KARNATAKA STATE LOCAL ACTS,Karnataka Kerosene Restriction Unuse Act 1956,0.0,0.0,0.0,0.0,December
+614,,KARNATAKA STATE LOCAL ACTS,Karnataka University Act,0.0,0.0,0.0,0.0,December
+615,,KARNATAKA STATE LOCAL ACTS,Karnataka Corruption Act,1.0,0.0,0.0,0.0,December
+616,,KARNATAKA STATE LOCAL ACTS,Karnataka Medical Registration Act 1965,1.0,0.0,0.0,0.0,December
+617,,KARNATAKA STATE LOCAL ACTS,Karnataka Land & Revenue Act 1964 & 2007,33.0,11.0,4.0,3.0,December
+618,,KARNATAKA STATE LOCAL ACTS,Karnataka Kerosene Dealers License Order 1969,0.0,0.0,0.0,0.0,December
+619,,KARNATAKA STATE LOCAL ACTS,Karnataka Society Registration Act,0.0,0.0,0.0,0.0,December
+620,,KARNATAKA STATE LOCAL ACTS,Karnataka Minor Mineral Consistent Rule 1994,35.0,7.0,1.0,1.0,December
+621,,KARNATAKA STATE LOCAL ACTS,Bangalore Development Authority Act,0.0,0.0,0.0,0.0,December
+622,,KARNATAKA STATE LOCAL ACTS,Karnataka Prohibition of Beggery Act 1975,30.0,2.0,13.0,0.0,December
+623,,KARNATAKA STATE LOCAL ACTS,Karnataka Municipalities Act 1964,0.0,0.0,0.0,0.0,December
+624,,KARNATAKA STATE LOCAL ACTS,Karnataka Irrigation Act 1963,2.0,0.0,0.0,0.0,December
+625,,KARNATAKA STATE LOCAL ACTS,Karnataka Fire Force act 1964,5.0,0.0,1.0,1.0,December
+626,,KARNATAKA STATE LOCAL ACTS,Karnataka Consumer Protection Act 1986,0.0,0.0,0.0,0.0,December
+627,,KARNATAKA STATE LOCAL ACTS,Karnataka Lottery Act,54.0,5.0,13.0,1.0,December
+628,,KARNATAKA STATE LOCAL ACTS,Karnataka Weight & Measurement Act,0.0,0.0,0.0,,December
+629,,KARNATAKA STATE LOCAL ACTS,Karnataka Agriculture Marketing Regulation Act,0.0,0.0,0.0,0.0,December
+630,,KARNATAKA STATE LOCAL ACTS,Karnataka Revenue Act,2.0,0.0,0.0,0.0,December
+631,,KARNATAKA STATE LOCAL ACTS,Karnataka Mining Act,0.0,0.0,0.0,0.0,December
+632,,KARNATAKA STATE LOCAL ACTS,Karnataka Betting Tax Act,0.0,0.0,0.0,0.0,December
+633,,KARNATAKA STATE LOCAL ACTS,Karnataka Panchayat Raj Act,0.0,0.0,0.0,0.0,December
+634,,KARNATAKA STATE LOCAL ACTS,Karnataka Open Place Disfigurement Act 1951,617.0,8.0,6.0,8.0,December
+635,,KARNATAKA STATE LOCAL ACTS,Karnataka Right To Information Act 2000 & 2008,0.0,0.0,0.0,0.0,December
+636,,KARNATAKA STATE LOCAL ACTS,Karnataka Urban Development Act 1987,0.0,0.0,0.0,0.0,December
+637,,KARNATAKA STATE LOCAL ACTS,Karnataka Town & City Planning Act 1961,0.0,0.0,0.0,0.0,December
+638,,KARNATAKA STATE LOCAL ACTS,Karnataka Race Betting Act,0.0,0.0,0.0,0.0,December
+639,,KARNATAKA STATE LOCAL ACTS,Karnataka Devadasi's (Prohibition Of Dedication) Act 1982,1.0,0.0,0.0,0.0,December
+640,,KARNATAKA STATE LOCAL ACTS,Cooperative Society Act,0.0,0.0,0.0,0.0,December
+641,,KARNATAKA STATE LOCAL ACTS,Karnataka Entertainment Tax Act 1958,2.0,0.0,0.0,0.0,December
+642,,KARNATAKA STATE LOCAL ACTS,Karnataka Land Acquisition (Prohibition) Act 2007,0.0,0.0,0.0,0.0,December
+643,,KARNATAKA STATE LOCAL ACTS,Karnataka Money Lender Act 1961,17.0,4.0,1.0,2.0,December
+644,,KARNATAKA STATE LOCAL ACTS,Karnataka Stamp Act 1957,0.0,0.0,0.0,0.0,December
+645,,KARNATAKA STATE LOCAL ACTS,Karnataka Prisoners Act 1963 & 1974,66.0,2.0,7.0,9.0,December
+646,,KARNATAKA STATE LOCAL ACTS,Karnataka Private Medical Institution Act 2007,2.0,0.0,0.0,1.0,December
+647,,KARNATAKA STATE LOCAL ACTS,MMRD (Mines & Minerals Regulation Development ) Act 1957,85.0,4.0,9.0,6.0,December
+648,,KARNATAKA STATE LOCAL ACTS,Karnataka Treasure Trove Act 1962,0.0,0.0,0.0,0.0,December
+649,,KARNATAKA STATE LOCAL ACTS,Karnataka Prohibition of Charging Exorbitant Interest Act 2004,17.0,2.0,2.0,1.0,December
+650,,KARNATAKA STATE LOCAL ACTS,Karnataka Ayurvedic And Unani Pract. Regis. & Medical Prac. Misc. Prov. Act,0.0,0.0,0.0,0.0,December
+651,,KARNATAKA STATE LOCAL ACTS,Other Local Acts,141.0,7.0,9.0,12.0,December
+652,,CYBER CRIME,CSAM (Child Pornography). Cyber Tip Line,6.0,2.0,3.0,0.0,December
+653,,CYBER CRIME,Business Fraud,49.0,0.0,14.0,17.0,December
+654,,CYBER CRIME,Matrimony Fraud,29.0,0.0,11.0,6.0,December
+655,,CYBER CRIME,Investment Fraud (Trading & Share Trading),930.0,0.0,272.0,273.0,December
+656,,CYBER CRIME,Fake Customer Care,109.0,0.0,39.0,37.0,December
+657,,CYBER CRIME,ATM Fraud,3.0,0.0,1.0,0.0,December
+658,,CYBER CRIME,Digital Arrest,455.0,0.0,154.0,133.0,December
+659,,CYBER CRIME,AEPS (Aadhaar),7.0,0.0,0.0,1.0,December
+660,,CYBER CRIME,Others ,490.0,1.0,185.0,170.0,December
+661,,CYBER CRIME,"Information Technology Act 2000, 2009",16937.0,2029.0,24.0,21.0,December
+662,,CYBER CRIME,Online Money Transfer,337.0,0.0,82.0,84.0,December
+663,,CYBER CRIME,Credit Card Fraud,359.0,0.0,113.0,89.0,December
+664,,CYBER CRIME,Loan App,99.0,0.0,28.0,21.0,December
+665,,CYBER CRIME,"Ransomeware Attack, Installing Spyware & Troman, Using Other Malware & Viruses to infect degital serv",1.0,0.0,1.0,0.0,December
+666,,CYBER CRIME,"Gifts, iPhone & Lottery Fraud",65.0,0.0,20.0,23.0,December
+667,,CYBER CRIME,Deep Fake/Deep Nudes,6.0,0.0,3.0,1.0,December
+668,,CYBER CRIME,"Investment Fraud (Part Time Job, Task, Review)",868.0,3.0,261.0,306.0,December
+669,,CYBER CRIME,Card Skimming,0.0,0.0,0.0,0.0,December
+670,,CYBER CRIME,Job Fraud,238.0,0.0,70.0,70.0,December
+671,,CYBER CRIME,Hacking of Accounts & Ids,83.0,0.0,22.0,18.0,December
+672,,CYBER CRIME,Phishing (Taking Password & Information),23.0,0.0,8.0,6.0,December
+673,,CYBER CRIME,Email Spoofing / Fraud,9.0,0.0,2.0,2.0,December
+674,,CYBER CRIME,SIM card Swapping / SIM Jacking / SIM Cloning,8.0,0.0,1.0,2.0,December
+675,,CYBER CRIME,Social Media Cases (Instagram/Facebook/Whatsapp/X /Telegram etc),157.0,0.0,34.0,28.0,December
+676,,CYBER CRIME,"Crypto Currency, Bitcoin, etc.",28.0,1.0,4.0,11.0,December
+677,,CYBER CRIME,Remote Access Fraud  (Any Desk/ Team Viewer),2.0,0.0,1.0,1.0,December
+678,,CYBER CRIME,OLX Fraud,50.0,0.0,10.0,18.0,December
+679,,CYBER CRIME,Data Theft,17.0,0.0,5.0,6.0,December
+680,,CYBER CRIME,Fedex,248.0,0.0,89.0,34.0,December
+681,,CYBER CRIME,"Otp Frauds (KYC Update, Apk Link)",325.0,0.0,99.0,99.0,December
+682,,CYBER CRIME,Sextortion and Revenge Porn,20.0,0.0,4.0,7.0,December
+683,,CYBER CRIME,Advertising Frauds,23.0,0.0,9.0,8.0,December
+684,,NATIONAL SECURITY ACT,,0.0,0.0,0.0,0.0,December
+685,,POCSO,Custodial Rape,0.0,0.0,0.0,0.0,December
+686,,POCSO,Gang Rape,1.0,0.0,0.0,0.0,December
+687,,POCSO,Rape with Murder,7.0,0.0,1.0,0.0,December
+688,,POCSO,Rape,2940.0,337.0,217.0,193.0,December
+689,,POCSO,Others ,990.0,90.0,78.0,86.0,December
+690,,Rape (Sec. 376 IPC),1.1  Custodial Rape,1.0,0.0,0.0,0.0,December
+691,,Rape (Sec. 376 IPC),1.2  Gang Rape,9.0,0.0,3.0,1.0,December
+692,,Rape (Sec. 376 IPC),1.3  other Cases of Rape,732.0,56.0,42.0,49.0,December
+693,,Outraging modesty (Molestation) (sec.354 IPC),,6311.0,550.0,432.0,419.0,December
+694,,Kidnapping & Abduction of Women: (Sec.366 IPC),,128.0,6.0,10.0,8.0,December
+695,,Insulting modesty (Eve-Teasing) (Sec.294 & 509 IPC if victim is a woman),,180.0,12.0,15.0,19.0,December
+696,,Murder for Dowry - by burning (Sec.302 IPC),,0.0,1.0,0.0,0.0,December
+697,,"Murder for Dowry - by other means
+(Sec.302 IPC)",,11.0,2.0,0.0,2.0,December
+698,,Murder for other reasons,,381.0,29.0,30.0,31.0,December
+699,,Attempt to Commit Murder for dowry by burning (Sec.307 IPC),,0.0,0.0,0.0,0.0,December
+700,,Attempt to Commit Murder for dowry by other means (Sec.307 IPC),,35.0,2.0,2.0,1.0,December
+701,,Attempt to Commit murder for other reasons,,763.0,63.0,76.0,63.0,December
+702,,"Dowry Death-by burning
+(Sec.304-B IPC)",,1.0,0.0,0.0,0.0,December
+703,,Dowry Death-by other Means (Sec.304(B) IPC),,108.0,7.0,5.0,4.0,December
+704,,Cruelty by Husband or Relatives of Husband (Sec.498-A IPC),,2975.0,251.0,214.0,228.0,December
+705,,Abetment of Suicide (Sec.306 IPC),,153.0,11.0,15.0,10.0,December
+706,,Immoral Traffic (prevention) Act.,,299.0,33.0,30.0,19.0,December
+707,,Indecent Representation of Women(Prohibition) Act-1986,,1.0,0.0,0.0,0.0,December
+708,,Pornography,,0.0,0.0,0.0,0.0,December
+709,,Offences against Public Servants (Sec.182-188-333-353 IPC),,131.0,12.0,14.0,8.0,December
+710,,Offences related to Marriage,,32.0,4.0,3.0,4.0,December
+711,,Cyber Crimes,,6731.0,687.0,474.0,528.0,December
+712,,"Infanticide/ Foeticide 
+(Sec. 315 & 316 IPC)",,2.0,1.0,0.0,0.0,December
+713,,Rape on Minor,,0.0,0.0,0.0,0.0,December
+714,,Exposure & abandonment (Sec. 317 IPC),,66.0,2.0,5.0,9.0,December
+715,,Kidnapping & Abduction of Children,,3766.0,257.0,350.0,335.0,December
+716,,For Ransom - of Children,,11.0,1.0,0.0,1.0,December
+717,,of Children - for begging,,0.0,0.0,1.0,0.0,December
+718,,of Girls - Immoral Purpose,,0.0,0.0,0.0,0.0,December
+719,,With intent to Steal from Child,,0.0,0.0,0.0,0.0,December
+720,,Lawful Guardianship,,4.0,0.0,1.0,0.0,December
+721,,Procuration of Minor Girls - For Prostitution,,0.0,0.0,0.0,0.0,December
+722,,Procuration of Minor Girls - Importing of Girl,,0.0,0.0,0.0,0.0,December
+723,,Procuration of Minor Girls - For Other Purposes,,16.0,0.0,2.0,2.0,December
+724,,Selling of girls for Prostitution (Sec.372 IPC),,0.0,0.0,0.0,0.0,December
+725,,The Prohibition of Child Marriage Act - 2006,,152.0,11.0,11.0,10.0,December
+726,,POCSO Act,,3938.0,427.0,296.0,279.0,December
+727,,Death of Children due to miscarriage,,30.0,1.0,3.0,1.0,December
+728,,Juvenile Justice Act,,142.0,9.0,8.0,13.0,December
+729,,Child Labour (Pro.& Reg.) Act,,105.0,11.0,11.0,3.0,December
+730,,Probation of Offenders Act,,1.0,0.0,0.0,0.0,December
+731,,Murder,,99.0,8.0,4.0,7.0,December
+732,,Rape,,186.0,13.0,14.0,14.0,December
+733,,Kidnapping,,124.0,7.0,10.0,7.0,December
+734,,Offences under the Protection of Civil Rights Act.,,0.0,0.0,0.0,0.0,December
+735,,Offences under the SC & ST  (prevention of Atrocities)Act 1989 (if the victim is SC),,2092.0,203.0,151.0,170.0,December

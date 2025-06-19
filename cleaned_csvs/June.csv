@@ -1,0 +1,697 @@
+sl_no,heads_of_crime,major_head,minor_head,current_year_upto,prev_year_same_month,prev_month,current_month,month
+1.0,A - IPC Crime,Murder (Sec.302/303 IPC),For gain,15.0,3.0,5.0,0.0,June
+2.0,A - IPC Crime,Murder (Sec.302/303 IPC),Over Property Dispute,15.0,2.0,1.0,2.0,June
+3.0,A - IPC Crime,Murder (Sec.302/303 IPC),Due to Personal Vendetta or enemity,13.0,3.0,3.0,3.0,June
+4.0,A - IPC Crime,Murder (Sec.302/303 IPC),Due to Sexual jealousy,6.0,3.0,2.0,0.0,June
+5.0,A - IPC Crime,Murder (Sec.302/303 IPC),For dowry by burning,0.0,0.0,0.0,0.0,June
+6.0,A - IPC Crime,Murder (Sec.302/303 IPC),For dowry by other means,4.0,0.0,0.0,1.0,June
+7.0,A - IPC Crime,Murder (Sec.302/303 IPC),Due to Communalism,0.0,1.0,0.0,0.0,June
+8.0,A - IPC Crime,Murder (Sec.302/303 IPC),Due to Casteism,0.0,1.0,0.0,0.0,June
+9.0,A - IPC Crime,Murder (Sec.302/303 IPC),Witch Craft (Sorcery),0.0,0.0,0.0,0.0,June
+10.0,A - IPC Crime,Murder (Sec.302/303 IPC),For Human Sacrifice,2.0,0.0,0.0,0.0,June
+11.0,A - IPC Crime,Murder (Sec.302/303 IPC),Due to Terrorism/Naxalism / Extremism,0.0,0.0,0.0,0.0,June
+12.0,A - IPC Crime,Murder (Sec.302/303 IPC),For Political Reasons,0.0,0.0,0.0,0.0,June
+13.0,A - IPC Crime,Murder (Sec.302/303 IPC),Due to Adultery,13.0,2.0,3.0,2.0,June
+14.0,A - IPC Crime,Murder (Sec.302/303 IPC),Civil Disputes,33.0,5.0,10.0,5.0,June
+15.0,A - IPC Crime,Murder (Sec.302/303 IPC),Electoral Gain,0.0,0.0,0.0,0.0,June
+16.0,A - IPC Crime,Murder (Sec.302/303 IPC),Gang Rivalry,1.0,0.0,0.0,0.0,June
+17.0,A - IPC Crime,Murder (Sec.302/303 IPC),Love Intrigue,9.0,2.0,1.0,0.0,June
+18.0,A - IPC Crime,Murder (Sec.302/303 IPC),Professional ,0.0,0.0,0.0,0.0,June
+19.0,A - IPC Crime,Murder (Sec.302/303 IPC),Psychopathic/Serial Killer/Lunacy,0.0,0.0,0.0,0.0,June
+20.0,A - IPC Crime,Murder (Sec.302/303 IPC),Rape with Murder,5.0,0.0,1.0,0.0,June
+21.0,A - IPC Crime,Murder (Sec.302/303 IPC),Revenge/Enemity,26.0,4.0,8.0,3.0,June
+22.0,A - IPC Crime,Murder (Sec.302/303 IPC),Sudden Quarrel,53.0,10.0,10.0,12.0,June
+23.0,A - IPC Crime,Murder (Sec.302/303 IPC),Village Dispute,0.0,0.0,0.0,0.0,June
+24.0,A - IPC Crime,Murder (Sec.302/303 IPC),Custodial,0.0,0.0,0.0,0.0,June
+25.0,A - IPC Crime,Murder (Sec.302/303 IPC),Due to Other Causes,437.0,80.0,71.0,61.0,June
+26.0,A - IPC Crime,ATTEMPT TO MURDER (Sec. 307 IPC),For Gain ,10.0,0.0,3.0,2.0,June
+27.0,A - IPC Crime,ATTEMPT TO MURDER (Sec. 307 IPC),Over Property Dispute,36.0,4.0,7.0,7.0,June
+28.0,A - IPC Crime,ATTEMPT TO MURDER (Sec. 307 IPC),Due to Personal Vendetta or enemity,48.0,9.0,14.0,5.0,June
+29.0,A - IPC Crime,ATTEMPT TO MURDER (Sec. 307 IPC),Due to Sexual jealousy,11.0,0.0,2.0,1.0,June
+30.0,A - IPC Crime,ATTEMPT TO MURDER (Sec. 307 IPC),For Dowry other Means,21.0,5.0,5.0,5.0,June
+31.0,A - IPC Crime,ATTEMPT TO MURDER (Sec. 307 IPC),Dowry By Burning,1.0,0.0,0.0,0.0,June
+32.0,A - IPC Crime,ATTEMPT TO MURDER (Sec. 307 IPC),Due to Communalism,3.0,0.0,3.0,0.0,June
+33.0,A - IPC Crime,ATTEMPT TO MURDER (Sec. 307 IPC),Due to Casteism,2.0,0.0,0.0,0.0,June
+34.0,A - IPC Crime,ATTEMPT TO MURDER (Sec. 307 IPC),Witch Craft (Sorcery),0.0,0.0,0.0,0.0,June
+35.0,A - IPC Crime,ATTEMPT TO MURDER (Sec. 307 IPC),For Human Sacrifice,0.0,1.0,0.0,0.0,June
+36.0,A - IPC Crime,ATTEMPT TO MURDER (Sec. 307 IPC),Terrorism /Naxalism / Extremism,0.0,0.0,0.0,0.0,June
+37.0,A - IPC Crime,ATTEMPT TO MURDER (Sec. 307 IPC),For Political Reasons,9.0,1.0,2.0,1.0,June
+38.0,A - IPC Crime,ATTEMPT TO MURDER (Sec. 307 IPC),Adultery,8.0,1.0,2.0,0.0,June
+39.0,A - IPC Crime,ATTEMPT TO MURDER (Sec. 307 IPC),Electoral Gain,0.0,0.0,0.0,0.0,June
+40.0,A - IPC Crime,ATTEMPT TO MURDER (Sec. 307 IPC),Gang Rivalry,0.0,0.0,0.0,0.0,June
+41.0,A - IPC Crime,ATTEMPT TO MURDER (Sec. 307 IPC),Love Intrigue,11.0,1.0,3.0,2.0,June
+42.0,A - IPC Crime,ATTEMPT TO MURDER (Sec. 307 IPC),Professional ,1.0,1.0,0.0,0.0,June
+43.0,A - IPC Crime,ATTEMPT TO MURDER (Sec. 307 IPC),Rape,0.0,0.0,0.0,0.0,June
+44.0,A - IPC Crime,ATTEMPT TO MURDER (Sec. 307 IPC),Revenge/Enemity,137.0,16.0,21.0,26.0,June
+45.0,A - IPC Crime,ATTEMPT TO MURDER (Sec. 307 IPC),Sudden Quarrel,147.0,24.0,34.0,15.0,June
+46.0,A - IPC Crime,ATTEMPT TO MURDER (Sec. 307 IPC),Village Dispute,2.0,0.0,0.0,0.0,June
+47.0,A - IPC Crime,ATTEMPT TO MURDER (Sec. 307 IPC),Due to Other Causes,921.0,156.0,196.0,124.0,June
+48.0,A - IPC Crime,ATTEMPT TO MURDER (Sec. 307 IPC),Civil Disputes,152.0,34.0,27.0,34.0,June
+49.0,A - IPC Crime,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC),For Gain,0.0,0.0,0.0,0.0,June
+50.0,A - IPC Crime,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC),Over Civil Dispute,0.0,0.0,0.0,0.0,June
+51.0,A - IPC Crime,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC),Due to Personal Vendetta or enemity,0.0,0.0,0.0,0.0,June
+52.0,A - IPC Crime,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC),Due to Sexual jealousy,0.0,0.0,0.0,0.0,June
+53.0,A - IPC Crime,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC),For Dowry,0.0,0.0,0.0,0.0,June
+54.0,A - IPC Crime,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC),Due to Communalism,0.0,0.0,0.0,0.0,June
+55.0,A - IPC Crime,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC),Due to Casteism,0.0,0.0,0.0,0.0,June
+56.0,A - IPC Crime,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC),Witch Craft (Sorcery),0.0,0.0,0.0,0.0,June
+57.0,A - IPC Crime,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC),For Human Sacrifice,2.0,0.0,0.0,1.0,June
+58.0,A - IPC Crime,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC),Terrorism /Naxalism / Extremism,0.0,0.0,0.0,0.0,June
+59.0,A - IPC Crime,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC),For Political Reasons,0.0,0.0,0.0,0.0,June
+60.0,A - IPC Crime,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC),Adultery,0.0,0.0,0.0,0.0,June
+61.0,A - IPC Crime,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC),Property Disputes,1.0,0.0,1.0,0.0,June
+62.0,A - IPC Crime,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC),Electoral Gain,0.0,0.0,0.0,0.0,June
+63.0,A - IPC Crime,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC),Gang Rivalry,0.0,0.0,0.0,0.0,June
+64.0,A - IPC Crime,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC),Love Intrigue,0.0,0.0,0.0,0.0,June
+65.0,A - IPC Crime,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC),Professional ,0.0,0.0,0.0,0.0,June
+66.0,A - IPC Crime,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC),Sudden Quarrel,9.0,0.0,2.0,0.0,June
+67.0,A - IPC Crime,CULPABLE HOMICIDE NOT AMOUNTING TO MUDER (Sec.304 IPC),Due to Other Causes,50.0,4.0,7.0,4.0,June
+68.0,A - IPC Crime,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC),For Gain,0.0,0.0,0.0,0.0,June
+69.0,A - IPC Crime,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC),Over Civil Dispute,3.0,1.0,2.0,0.0,June
+70.0,A - IPC Crime,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC),Due to Personal Vendetta or enemity,1.0,0.0,0.0,1.0,June
+71.0,A - IPC Crime,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC),Due to Sexual jealousy,0.0,0.0,0.0,0.0,June
+72.0,A - IPC Crime,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC),For Dowry,0.0,0.0,0.0,0.0,June
+73.0,A - IPC Crime,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC),Due to Communalism,0.0,0.0,0.0,0.0,June
+74.0,A - IPC Crime,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC),Due to Casteism,0.0,0.0,0.0,0.0,June
+75.0,A - IPC Crime,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC),Witch Craft (Sorcery),0.0,0.0,0.0,0.0,June
+76.0,A - IPC Crime,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC),For Human Sacrifice,0.0,0.0,0.0,0.0,June
+77.0,A - IPC Crime,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC),Terrorism /Naxalism / Extremism,0.0,0.0,0.0,0.0,June
+78.0,A - IPC Crime,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC),For Political Reasons,1.0,0.0,0.0,0.0,June
+79.0,A - IPC Crime,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC),Due to Other Causes,29.0,1.0,6.0,5.0,June
+80.0,A - IPC Crime,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC),Adultery,0.0,0.0,0.0,0.0,June
+81.0,A - IPC Crime,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC),Property Disputes,1.0,0.0,1.0,0.0,June
+82.0,A - IPC Crime,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC),Electoral Gain,0.0,0.0,0.0,0.0,June
+83.0,A - IPC Crime,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC),Gang Rivalry,0.0,0.0,0.0,0.0,June
+84.0,A - IPC Crime,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC),Love Intrigue,0.0,0.0,0.0,0.0,June
+85.0,A - IPC Crime,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC),Professional ,1.0,0.0,0.0,0.0,June
+86.0,A - IPC Crime,ATTEMPT TO CULPABLE HOMICIDE NOT AMOUNTING TO MURDER (Sec. 308 IPC),Sudden Quarrel,6.0,1.0,2.0,1.0,June
+87.0,A - IPC Crime,"RAPE (Sec.376, 376(A) to 376 (D) IPC)",Custodial Rape,1.0,0.0,0.0,0.0,June
+88.0,A - IPC Crime,"RAPE (Sec.376, 376(A) to 376 (D) IPC)",Attempt to Commit,5.0,2.0,1.0,1.0,June
+89.0,A - IPC Crime,"RAPE (Sec.376, 376(A) to 376 (D) IPC)",By a Gang,8.0,2.0,2.0,0.0,June
+90.0,A - IPC Crime,"RAPE (Sec.376, 376(A) to 376 (D) IPC)",By Parents,0.0,0.0,0.0,0.0,June
+91.0,A - IPC Crime,"RAPE (Sec.376, 376(A) to 376 (D) IPC)",By Hospital Staff,1.0,0.0,1.0,0.0,June
+92.0,A - IPC Crime,"RAPE (Sec.376, 376(A) to 376 (D) IPC)",By Husband During Sepearation,2.0,1.0,1.0,1.0,June
+93.0,A - IPC Crime,"RAPE (Sec.376, 376(A) to 376 (D) IPC)",By Neighbours,23.0,4.0,5.0,1.0,June
+94.0,A - IPC Crime,"RAPE (Sec.376, 376(A) to 376 (D) IPC)",By Relatives,23.0,7.0,3.0,2.0,June
+95.0,A - IPC Crime,"RAPE (Sec.376, 376(A) to 376 (D) IPC)",In Jail Custody,0.0,0.0,0.0,0.0,June
+96.0,A - IPC Crime,"RAPE (Sec.376, 376(A) to 376 (D) IPC)",In Remand Home,0.0,0.0,0.0,0.0,June
+97.0,A - IPC Crime,"RAPE (Sec.376, 376(A) to 376 (D) IPC)",InCest,0.0,0.0,0.0,0.0,June
+98.0,A - IPC Crime,"RAPE (Sec.376, 376(A) to 376 (D) IPC)",Known Person,207.0,37.0,54.0,41.0,June
+99.0,A - IPC Crime,"RAPE (Sec.376, 376(A) to 376 (D) IPC)",Unknown Person,4.0,1.0,1.0,1.0,June
+100.0,A - IPC Crime,"RAPE (Sec.376, 376(A) to 376 (D) IPC)",Due to Other Causes,60.0,13.0,13.0,8.0,June
+101.0,A - IPC Crime,"RAPE (Sec.376, 376(A) to 376 (D) IPC)",On Minor,0.0,0.0,0.0,0.0,June
+102.0,A - IPC Crime,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC)",Missing - Boy,1387.0,173.0,276.0,277.0,June
+103.0,A - IPC Crime,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC)",Missing - Girl,443.0,65.0,66.0,69.0,June
+104.0,A - IPC Crime,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC)",For Ransom - of Children,7.0,0.0,0.0,3.0,June
+105.0,A - IPC Crime,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC)",For Ransom - of Cildren for Begging,0.0,0.0,0.0,0.0,June
+106.0,A - IPC Crime,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC)",For Ransom - of Women,3.0,1.0,0.0,1.0,June
+107.0,A - IPC Crime,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC)",For Ransom - of Girls for Immoral Purpose,0.0,0.0,0.0,0.0,June
+108.0,A - IPC Crime,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC)",For Ransom - of  Others,40.0,4.0,6.0,8.0,June
+109.0,A - IPC Crime,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC)",Procuration of Minor Girls - For Prostitution,0.0,0.0,0.0,0.0,June
+110.0,A - IPC Crime,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC)",Procuration of Minor Girls - Importring of Girl,0.0,0.0,0.0,0.0,June
+111.0,A - IPC Crime,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC)",Procuration of Minor Girls - For other Purpose,11.0,2.0,1.0,1.0,June
+112.0,A - IPC Crime,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC)",Espionage,0.0,0.0,0.0,0.0,June
+113.0,A - IPC Crime,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC)",Intent to Steal From Child,0.0,0.0,0.0,0.0,June
+114.0,A - IPC Crime,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC)",Murder (Homicide),0.0,0.0,0.0,0.0,June
+115.0,A - IPC Crime,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC)",Obtain Signature Forcibly,0.0,0.0,0.0,0.0,June
+116.0,A - IPC Crime,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC)",Recovering Loan,2.0,0.0,1.0,0.0,June
+117.0,A - IPC Crime,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC)",Settling any Disputes,4.0,2.0,0.0,0.0,June
+118.0,A - IPC Crime,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC)",Unnatural Lust / Illicit Intercourse,0.0,0.0,0.0,0.0,June
+119.0,A - IPC Crime,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC)",Wrongful Confinement,8.0,1.0,1.0,0.0,June
+120.0,A - IPC Crime,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC)",For Exporting,0.0,0.0,0.0,0.0,June
+121.0,A - IPC Crime,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC)",From Lawful Guardianship,2.0,0.0,0.0,2.0,June
+122.0,A - IPC Crime,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC)",For Camel Racing Etc.,0.0,0.0,0.0,0.0,June
+123.0,A - IPC Crime,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC)",To Compel For Marriage,4.0,3.0,1.0,1.0,June
+124.0,A - IPC Crime,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC)",For Slavery,0.0,0.0,0.0,0.0,June
+125.0,A - IPC Crime,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC)",For Stealing From its Person,0.0,0.0,0.0,0.0,June
+126.0,A - IPC Crime,"KIDNAPPING AND ABDUCTION (Sec.360, 361, 363 to 369 IPC)",Others,262.0,53.0,47.0,59.0,June
+127.0,A - IPC Crime,DACOITY (Sec. 395 to 398 IPC ),At ATM,0.0,0.0,0.0,0.0,June
+128.0,A - IPC Crime,DACOITY (Sec. 395 to 398 IPC ),At Residential Premises,23.0,1.0,2.0,3.0,June
+129.0,A - IPC Crime,DACOITY (Sec. 395 to 398 IPC ),On Highways,9.0,0.0,0.0,1.0,June
+130.0,A - IPC Crime,DACOITY (Sec. 395 to 398 IPC ),In Trains,0.0,1.0,0.0,0.0,June
+131.0,A - IPC Crime,DACOITY (Sec. 395 to 398 IPC ),At Banks,0.0,0.0,0.0,0.0,June
+132.0,A - IPC Crime,DACOITY (Sec. 395 to 398 IPC ),At Commercial Places / Establishments,8.0,2.0,2.0,1.0,June
+133.0,A - IPC Crime,DACOITY (Sec. 395 to 398 IPC ),On Other Roads,14.0,4.0,2.0,2.0,June
+134.0,A - IPC Crime,DACOITY (Sec. 395 to 398 IPC ),In Other Places,29.0,4.0,2.0,3.0,June
+135.0,A - IPC Crime,DACOITY (Sec. 395 to 398 IPC ),River & Sea,1.0,0.0,0.0,0.0,June
+136.0,A - IPC Crime,Preparation And Assembly for Dacoity,,72.0,10.0,13.0,20.0,June
+137.0,A - IPC Crime,Robbery (Sec.392 to 394 IPC),At ATM,0.0,0.0,0.0,0.0,June
+138.0,A - IPC Crime,Robbery (Sec.392 to 394 IPC),At Residential Premises,92.0,7.0,14.0,16.0,June
+139.0,A - IPC Crime,Robbery (Sec.392 to 394 IPC),On Highways,58.0,6.0,18.0,4.0,June
+140.0,A - IPC Crime,Robbery (Sec.392 to 394 IPC),In Trains,6.0,1.0,1.0,3.0,June
+141.0,A - IPC Crime,Robbery (Sec.392 to 394 IPC),At Banks,0.0,0.0,0.0,0.0,June
+142.0,A - IPC Crime,Robbery (Sec.392 to 394 IPC),At Commercial Places / Establishments,43.0,7.0,6.0,13.0,June
+143.0,A - IPC Crime,Robbery (Sec.392 to 394 IPC),In Other Places,443.0,60.0,81.0,61.0,June
+144.0,A - IPC Crime,Robbery (Sec.392 to 394 IPC),Chain Snatching,351.0,46.0,58.0,58.0,June
+145.0,A - IPC Crime,Robbery (Sec.392 to 394 IPC),Attempt to Commit,25.0,6.0,5.0,2.0,June
+146.0,A - IPC Crime,"BURGLARY - NIGHT (Sec. 380 IPC R/W 453 TO 460, 462 IPC)",At Residential Premises,1358.0,252.0,255.0,236.0,June
+147.0,A - IPC Crime,"BURGLARY - NIGHT (Sec. 380 IPC R/W 453 TO 460, 462 IPC)",On Highways,1.0,1.0,0.0,0.0,June
+148.0,A - IPC Crime,"BURGLARY - NIGHT (Sec. 380 IPC R/W 453 TO 460, 462 IPC)",In Trains,0.0,0.0,0.0,0.0,June
+149.0,A - IPC Crime,"BURGLARY - NIGHT (Sec. 380 IPC R/W 453 TO 460, 462 IPC)",At Banks,20.0,6.0,1.0,3.0,June
+150.0,A - IPC Crime,"BURGLARY - NIGHT (Sec. 380 IPC R/W 453 TO 460, 462 IPC)",At Commercial Places / Establishments,390.0,86.0,64.0,82.0,June
+151.0,A - IPC Crime,"BURGLARY - NIGHT (Sec. 380 IPC R/W 453 TO 460, 462 IPC)",In Other Places,275.0,60.0,49.0,52.0,June
+152.0,A - IPC Crime,"BURGLARY - NIGHT (Sec. 380 IPC R/W 453 TO 460, 462 IPC)",Temple Theft,163.0,42.0,26.0,34.0,June
+153.0,A - IPC Crime,"BURGLARY - DAY (Sec. 380 IPC R/W 453 TO 460, 462 IPC)",At Residential Premises,480.0,128.0,81.0,90.0,June
+154.0,A - IPC Crime,"BURGLARY - DAY (Sec. 380 IPC R/W 453 TO 460, 462 IPC)",On Highways,0.0,0.0,0.0,0.0,June
+155.0,A - IPC Crime,"BURGLARY - DAY (Sec. 380 IPC R/W 453 TO 460, 462 IPC)",In Trains,1.0,0.0,0.0,0.0,June
+156.0,A - IPC Crime,"BURGLARY - DAY (Sec. 380 IPC R/W 453 TO 460, 462 IPC)",At Banks,2.0,0.0,2.0,0.0,June
+157.0,A - IPC Crime,"BURGLARY - DAY (Sec. 380 IPC R/W 453 TO 460, 462 IPC)",At Commercial Places / Establishments,27.0,3.0,9.0,3.0,June
+158.0,A - IPC Crime,"BURGLARY - DAY (Sec. 380 IPC R/W 453 TO 460, 462 IPC)",In Other Places,43.0,4.0,8.0,11.0,June
+159.0,A - IPC Crime,"BURGLARY - DAY (Sec. 380 IPC R/W 453 TO 460, 462 IPC)",Temple Theft,14.0,2.0,4.0,2.0,June
+160.0,A - IPC Crime,THEFT (Sec.379 to 389 IPC),Of Sand,25.0,11.0,3.0,5.0,June
+161.0,A - IPC Crime,THEFT (Sec.379 to 389 IPC),Attempt to commit,43.0,31.0,4.0,7.0,June
+162.0,A - IPC Crime,THEFT (Sec.379 to 389 IPC),Of Automobiles - Of Tractors,755.0,184.0,134.0,95.0,June
+163.0,A - IPC Crime,THEFT (Sec.379 to 389 IPC),At ATM,3.0,0.0,1.0,0.0,June
+164.0,A - IPC Crime,THEFT (Sec.379 to 389 IPC),Communication And Elec. Wire,120.0,29.0,27.0,24.0,June
+165.0,A - IPC Crime,THEFT (Sec.379 to 389 IPC),Of Cattle,246.0,37.0,41.0,57.0,June
+166.0,A - IPC Crime,THEFT (Sec.379 to 389 IPC),Of Cycle,66.0,9.0,11.0,10.0,June
+167.0,A - IPC Crime,THEFT (Sec.379 to 389 IPC),Of Automobiles - Of Lorries/Trucks,45.0,19.0,12.0,6.0,June
+168.0,A - IPC Crime,THEFT (Sec.379 to 389 IPC),Of Automobiles - Of Buses,5.0,2.0,0.0,2.0,June
+169.0,A - IPC Crime,THEFT (Sec.379 to 389 IPC),Of Automobiles - Of Cars / Jeeps,120.0,29.0,12.0,17.0,June
+170.0,A - IPC Crime,THEFT (Sec.379 to 389 IPC),Of Automobiles - Of Two Wheelers ,5819.0,1183.0,1061.0,1021.0,June
+171.0,A - IPC Crime,THEFT (Sec.379 to 389 IPC),Of Automobies - of Three Wheelers,141.0,24.0,32.0,28.0,June
+172.0,A - IPC Crime,THEFT (Sec.379 to 389 IPC),Of Accessories of Motor Vehicle,169.0,22.0,23.0,34.0,June
+173.0,A - IPC Crime,THEFT (Sec.379 to 389 IPC),Govt. Vehicle,2.0,0.0,1.0,0.0,June
+174.0,A - IPC Crime,THEFT (Sec.379 to 389 IPC),"Electronic Goods (Radio, TV, VCR, Acs, Office Automation Equipments)",722.0,148.0,137.0,101.0,June
+175.0,A - IPC Crime,THEFT (Sec.379 to 389 IPC),Of Fire Arms,2.0,1.0,0.0,0.0,June
+176.0,A - IPC Crime,THEFT (Sec.379 to 389 IPC),Of Explosives,0.0,0.0,0.0,0.0,June
+177.0,A - IPC Crime,THEFT (Sec.379 to 389 IPC),Of Cultural - Idols,4.0,2.0,0.0,0.0,June
+178.0,A - IPC Crime,THEFT (Sec.379 to 389 IPC),Of Cultural - Painting,1.0,0.0,0.0,0.0,June
+179.0,A - IPC Crime,THEFT (Sec.379 to 389 IPC),Of Cultrual - Others,137.0,22.0,19.0,20.0,June
+180.0,A - IPC Crime,THEFT (Sec.379 to 389 IPC),Cash,297.0,61.0,59.0,39.0,June
+181.0,A - IPC Crime,THEFT (Sec.379 to 389 IPC),Jewellery,892.0,120.0,147.0,139.0,June
+182.0,A - IPC Crime,THEFT (Sec.379 to 389 IPC),Other Items Not Included Above,982.0,167.0,155.0,170.0,June
+183.0,A - IPC Crime,THEFT (Sec.379 to 389 IPC),In Running Train,17.0,6.0,1.0,0.0,June
+184.0,A - IPC Crime,THEFT (Sec.379 to 389 IPC),Extortion,133.0,28.0,18.0,25.0,June
+185.0,A - IPC Crime,THEFT (Sec.379 to 389 IPC),House Theft,974.0,230.0,173.0,183.0,June
+186.0,A - IPC Crime,THEFT (Sec.379 to 389 IPC),Servant Theft,256.0,39.0,50.0,43.0,June
+187.0,A - IPC Crime,RIOTS (Sec.141 to 153 IPC),Land Dispute,572.0,130.0,121.0,125.0,June
+188.0,A - IPC Crime,RIOTS (Sec.141 to 153 IPC),Employee - Govt.,0.0,0.0,0.0,0.0,June
+189.0,A - IPC Crime,RIOTS (Sec.141 to 153 IPC),Labour - Private Sector,2.0,0.0,0.0,1.0,June
+190.0,A - IPC Crime,RIOTS (Sec.141 to 153 IPC),Labour - Public Sector,1.0,0.0,0.0,0.0,June
+191.0,A - IPC Crime,RIOTS (Sec.141 to 153 IPC),Linguistic,2.0,0.0,1.0,0.0,June
+192.0,A - IPC Crime,RIOTS (Sec.141 to 153 IPC),Political ,11.0,3.0,6.0,1.0,June
+193.0,A - IPC Crime,RIOTS (Sec.141 to 153 IPC),Regional,4.0,1.0,0.0,0.0,June
+194.0,A - IPC Crime,RIOTS (Sec.141 to 153 IPC),Sectarian,0.0,0.0,0.0,0.0,June
+195.0,A - IPC Crime,RIOTS (Sec.141 to 153 IPC),Students,5.0,1.0,0.0,1.0,June
+196.0,A - IPC Crime,RIOTS (Sec.141 to 153 IPC),Tribal,0.0,0.0,0.0,0.0,June
+197.0,A - IPC Crime,RIOTS (Sec.141 to 153 IPC),Due to Village Disputes,16.0,3.0,2.0,1.0,June
+198.0,A - IPC Crime,RIOTS (Sec.141 to 153 IPC),Communal,1.0,3.0,1.0,0.0,June
+199.0,A - IPC Crime,RIOTS (Sec.141 to 153 IPC),Industrial,3.0,1.0,0.0,0.0,June
+200.0,A - IPC Crime,RIOTS (Sec.141 to 153 IPC),Caste,5.0,0.0,3.0,0.0,June
+201.0,A - IPC Crime,RIOTS (Sec.141 to 153 IPC),Agrarian,1.0,0.0,0.0,0.0,June
+202.0,A - IPC Crime,RIOTS (Sec.141 to 153 IPC),Others,1405.0,240.0,270.0,234.0,June
+203.0,A - IPC Crime,"OFFENCES AGAINST STATE (Sec. 121 to 130, except 124(A) IPC)",,0.0,0.0,0.0,0.0,June
+204.0,A - IPC Crime,"OFFENCES PROMOTING ENEMITY (Sec. 153(A), 154(B) & 505 IPC",,58.0,4.0,5.0,8.0,June
+205.0,A - IPC Crime,CRIMINAL BREACH OF TRUST,,274.0,48.0,34.0,49.0,June
+206.0,A - IPC Crime,CHEATING (Sec.417 to 420 IPC),,3439.0,613.0,540.0,665.0,June
+207.0,A - IPC Crime,"COUNTERFEITING (Sec. 231 to 263 (A), 489(A) to 489 (E) IPC )","Stock Share, Debentrue Certificate",0.0,0.0,0.0,0.0,June
+208.0,A - IPC Crime,"COUNTERFEITING (Sec. 231 to 263 (A), 489(A) to 489 (E) IPC )",Usage of Counterfeit Stamp,0.0,0.0,0.0,0.0,June
+209.0,A - IPC Crime,"COUNTERFEITING (Sec. 231 to 263 (A), 489(A) to 489 (E) IPC )",Of Coins (Sec 231 to 254 IPC),0.0,0.0,0.0,0.0,June
+210.0,A - IPC Crime,"COUNTERFEITING (Sec. 231 to 263 (A), 489(A) to 489 (E) IPC )",Of Stamps (Sec.255 to 263(A) IPC),0.0,0.0,0.0,0.0,June
+211.0,A - IPC Crime,"COUNTERFEITING (Sec. 231 to 263 (A), 489(A) to 489 (E) IPC )",Of Currency Notes And Bank Notes (Sec. 489 (A) to 489 (E) IPC),19.0,5.0,2.0,2.0,June
+212.0,A - IPC Crime,"COUNTERFEITING (Sec. 231 to 263 (A), 489(A) to 489 (E) IPC )",Of Others,2.0,0.0,1.0,0.0,June
+213.0,A - IPC Crime,"FORGERY (Sec. 465, 468, 471, 473, 476, 477 & 477(A) IPC",Forgery  ,191.0,30.0,21.0,39.0,June
+214.0,A - IPC Crime,"FORGERY (Sec. 465, 468, 471, 473, 476, 477 & 477(A) IPC",Organised (Racket),1.0,1.0,0.0,0.0,June
+215.0,A - IPC Crime,"FORGERY (Sec. 465, 468, 471, 473, 476, 477 & 477(A) IPC",Forgery of Passport,0.0,0.0,0.0,0.0,June
+216.0,A - IPC Crime,"FORGERY (Sec. 465, 468, 471, 473, 476, 477 & 477(A) IPC",Other Forgery,73.0,17.0,12.0,12.0,June
+217.0,A - IPC Crime,"CASES OF HURT (Sec. 323 to 335 IPC except 328, 332, 333)",Acid Attack (326(a)),6.0,0.0,1.0,0.0,June
+218.0,A - IPC Crime,"CASES OF HURT (Sec. 323 to 335 IPC except 328, 332, 333)",Attempt to Acid Attack (326(b)),1.0,0.0,0.0,0.0,June
+219.0,A - IPC Crime,"CASES OF HURT (Sec. 323 to 335 IPC except 328, 332, 333)",Grievous Hurt,651.0,137.0,117.0,112.0,June
+220.0,A - IPC Crime,"CASES OF HURT (Sec. 323 to 335 IPC except 328, 332, 333)",Simple Hurt,8725.0,1456.0,1700.0,1360.0,June
+221.0,A - IPC Crime,"CASES OF HURT (Sec. 323 to 335 IPC except 328, 332, 333)",Custodial,1.0,0.0,0.0,0.0,June
+222.0,A - IPC Crime,"ADULTERATION (Sec. 272, 273 to 276 IPC)",Attempt to Commit,0.0,0.0,0.0,0.0,June
+223.0,A - IPC Crime,"ADULTERATION (Sec. 272, 273 to 276 IPC)",Alcoholic Drink (Liquor),2.0,0.0,1.0,1.0,June
+224.0,A - IPC Crime,"ADULTERATION (Sec. 272, 273 to 276 IPC)",Cement & Chemical/Fertiliser,0.0,0.0,0.0,0.0,June
+225.0,A - IPC Crime,"ADULTERATION (Sec. 272, 273 to 276 IPC)",Cosmetics,0.0,0.0,0.0,0.0,June
+226.0,A - IPC Crime,"ADULTERATION (Sec. 272, 273 to 276 IPC)",Diesel,0.0,0.0,0.0,0.0,June
+227.0,A - IPC Crime,"ADULTERATION (Sec. 272, 273 to 276 IPC)",Drug/Medicine,0.0,0.0,0.0,0.0,June
+228.0,A - IPC Crime,"ADULTERATION (Sec. 272, 273 to 276 IPC)",Edible Oil,0.0,0.0,0.0,0.0,June
+229.0,A - IPC Crime,"ADULTERATION (Sec. 272, 273 to 276 IPC)",Food Grain,0.0,0.0,0.0,0.0,June
+230.0,A - IPC Crime,"ADULTERATION (Sec. 272, 273 to 276 IPC)",Kerosene,0.0,0.0,0.0,0.0,June
+231.0,A - IPC Crime,"ADULTERATION (Sec. 272, 273 to 276 IPC)",Life Saving Drug,0.0,0.0,0.0,0.0,June
+232.0,A - IPC Crime,"ADULTERATION (Sec. 272, 273 to 276 IPC)",Mobile Oil,0.0,0.0,0.0,0.0,June
+233.0,A - IPC Crime,"ADULTERATION (Sec. 272, 273 to 276 IPC)",Petrol,0.0,0.0,0.0,0.0,June
+234.0,A - IPC Crime,"ADULTERATION (Sec. 272, 273 to 276 IPC)",Petroleum Product,0.0,0.0,0.0,0.0,June
+235.0,A - IPC Crime,"ADULTERATION (Sec. 272, 273 to 276 IPC)",Soft Drinks,0.0,0.0,0.0,0.0,June
+236.0,A - IPC Crime,"ADULTERATION (Sec. 272, 273 to 276 IPC)",Spices,1.0,0.0,0.0,0.0,June
+237.0,A - IPC Crime,"ADULTERATION (Sec. 272, 273 to 276 IPC)",Others,2.0,1.0,0.0,0.0,June
+238.0,A - IPC Crime,AFFRAY (Sec. 160 IPC ),,263.0,52.0,51.0,43.0,June
+239.0,A - IPC Crime,"ARSON (Sec. 435, 436, 438 IPC )",Agricultural Produce,48.0,5.0,5.0,8.0,June
+240.0,A - IPC Crime,"ARSON (Sec. 435, 436, 438 IPC )",Attemp to Commit,0.0,0.0,0.0,0.0,June
+241.0,A - IPC Crime,"ARSON (Sec. 435, 436, 438 IPC )",Boat / Ship,0.0,0.0,0.0,0.0,June
+242.0,A - IPC Crime,"ARSON (Sec. 435, 436, 438 IPC )",Dwelling House,8.0,2.0,0.0,0.0,June
+243.0,A - IPC Crime,"ARSON (Sec. 435, 436, 438 IPC )",Educational Institution,1.0,0.0,0.0,0.0,June
+244.0,A - IPC Crime,"ARSON (Sec. 435, 436, 438 IPC )",Govt. Property,6.0,1.0,0.0,0.0,June
+245.0,A - IPC Crime,"ARSON (Sec. 435, 436, 438 IPC )",Industrial Establishment,0.0,1.0,0.0,0.0,June
+246.0,A - IPC Crime,"ARSON (Sec. 435, 436, 438 IPC )",Place of worship,0.0,1.0,0.0,0.0,June
+247.0,A - IPC Crime,"ARSON (Sec. 435, 436, 438 IPC )",Public Place,6.0,2.0,1.0,2.0,June
+248.0,A - IPC Crime,"ARSON (Sec. 435, 436, 438 IPC )",Railway Property,0.0,0.0,0.0,0.0,June
+249.0,A - IPC Crime,"ARSON (Sec. 435, 436, 438 IPC )",Vital Installation,0.0,0.0,0.0,0.0,June
+250.0,A - IPC Crime,"ARSON (Sec. 435, 436, 438 IPC )",Warehouse (Godown),2.0,0.0,0.0,0.0,June
+251.0,A - IPC Crime,"ARSON (Sec. 435, 436, 438 IPC )",Others,78.0,8.0,10.0,11.0,June
+252.0,A - IPC Crime,"ASSAULT (Sec 356, 357 IPC)",Attempt To Commit,3.0,0.0,0.0,3.0,June
+253.0,A - IPC Crime,"ASSAULT (Sec 356, 357 IPC)",On Contractor,1.0,0.0,0.0,0.0,June
+254.0,A - IPC Crime,"ASSAULT (Sec 356, 357 IPC)",On Domestic Servant,0.0,0.0,0.0,0.0,June
+255.0,A - IPC Crime,"ASSAULT (Sec 356, 357 IPC)",On Labourer,1.0,0.0,1.0,0.0,June
+256.0,A - IPC Crime,"ASSAULT (Sec 356, 357 IPC)",On Man (General),10.0,1.0,2.0,0.0,June
+257.0,A - IPC Crime,"ASSAULT (Sec 356, 357 IPC)",On Man (SC),1.0,0.0,0.0,0.0,June
+258.0,A - IPC Crime,"ASSAULT (Sec 356, 357 IPC)",On Man (ST),0.0,0.0,0.0,0.0,June
+259.0,A - IPC Crime,"ASSAULT (Sec 356, 357 IPC)",On Manager/Executive (Other Than Public Servant),0.0,0.0,0.0,0.0,June
+260.0,A - IPC Crime,"ASSAULT (Sec 356, 357 IPC)","On Member of Clergy (Christian, Budhist, Jain, Sikh)",0.0,0.0,0.0,0.0,June
+261.0,A - IPC Crime,"ASSAULT (Sec 356, 357 IPC)",Member of Legislative Assembly / Council (MLA/MLC),0.0,0.0,0.0,0.0,June
+262.0,A - IPC Crime,"ASSAULT (Sec 356, 357 IPC)",On Member of Parliament (MP),0.0,0.0,0.0,0.0,June
+263.0,A - IPC Crime,"ASSAULT (Sec 356, 357 IPC)",On other Dignitaries /Public Figures,2.0,0.0,0.0,1.0,June
+264.0,A - IPC Crime,"ASSAULT (Sec 356, 357 IPC)",On Press,1.0,0.0,0.0,0.0,June
+265.0,A - IPC Crime,"ASSAULT (Sec 356, 357 IPC)",On Professional ,1.0,0.0,0.0,0.0,June
+266.0,A - IPC Crime,"ASSAULT (Sec 356, 357 IPC)",On Public Servant,1.0,0.0,1.0,0.0,June
+267.0,A - IPC Crime,"ASSAULT (Sec 356, 357 IPC)",On Student,0.0,0.0,0.0,0.0,June
+268.0,A - IPC Crime,"ASSAULT (Sec 356, 357 IPC)",On Teacher,0.0,0.0,0.0,0.0,June
+269.0,A - IPC Crime,"ASSAULT (Sec 356, 357 IPC)",On Women (General),2.0,0.0,0.0,0.0,June
+270.0,A - IPC Crime,"ASSAULT (Sec 356, 357 IPC)",On Woman (SC),0.0,0.0,0.0,0.0,June
+271.0,A - IPC Crime,"ASSAULT (Sec 356, 357 IPC)",On Woman (ST),0.0,0.0,0.0,0.0,June
+272.0,A - IPC Crime,COMMUNAL / RELIGION (Sec. 295 to 297 IPC),Attempt to Commit,1.0,0.0,0.0,1.0,June
+273.0,A - IPC Crime,COMMUNAL / RELIGION (Sec. 295 to 297 IPC),Caste Issue,9.0,1.0,0.0,0.0,June
+274.0,A - IPC Crime,COMMUNAL / RELIGION (Sec. 295 to 297 IPC),Communal Issue,50.0,4.0,7.0,4.0,June
+275.0,A - IPC Crime,COMMUNAL / RELIGION (Sec. 295 to 297 IPC),Linguistic Issue,0.0,0.0,0.0,0.0,June
+276.0,A - IPC Crime,COMMUNAL / RELIGION (Sec. 295 to 297 IPC),Political Issue,13.0,1.0,2.0,2.0,June
+277.0,A - IPC Crime,COMMUNAL / RELIGION (Sec. 295 to 297 IPC),Racial/Ethnic Issue,0.0,0.0,0.0,0.0,June
+278.0,A - IPC Crime,COMMUNAL / RELIGION (Sec. 295 to 297 IPC),Regional Issue,15.0,1.0,0.0,2.0,June
+279.0,A - IPC Crime,COMMUNAL / RELIGION (Sec. 295 to 297 IPC),Religious Issue,58.0,4.0,3.0,4.0,June
+280.0,A - IPC Crime,COMMUNAL / RELIGION (Sec. 295 to 297 IPC),Sectarian Issue,0.0,0.0,0.0,0.0,June
+281.0,A - IPC Crime,COMMUNAL / RELIGION (Sec. 295 to 297 IPC),Others,52.0,8.0,5.0,7.0,June
+282.0,A - IPC Crime,"CRIMINAL CONSPIRACY (Sec. 120(B), 121(A) IPC)",Conspiracy To Wage War,0.0,0.0,0.0,0.0,June
+283.0,A - IPC Crime,"CRIMINAL CONSPIRACY (Sec. 120(B), 121(A) IPC)",Related to Substantive Offence,3.0,0.0,0.0,0.0,June
+284.0,A - IPC Crime,"CRIMINAL CONSPIRACY (Sec. 120(B), 121(A) IPC)",Others,16.0,0.0,2.0,5.0,June
+285.0,A - IPC Crime,CRIMINAL INTIMIDATION (Sec. 504 to 508 IPC),,1243.0,218.0,217.0,218.0,June
+286.0,A - IPC Crime,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC)",Attempt to Commit,0.0,0.0,0.0,0.0,June
+287.0,A - IPC Crime,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC)",Bank,4.0,0.0,1.0,0.0,June
+288.0,A - IPC Crime,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC)",Business Establishment,0.0,2.0,0.0,0.0,June
+289.0,A - IPC Crime,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC)",Charitable Organisation,0.0,0.0,0.0,0.0,June
+290.0,A - IPC Crime,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC)",Chitfund Organisation,0.0,0.0,0.0,0.0,June
+291.0,A - IPC Crime,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC)",Co-operative Organisation,0.0,0.0,0.0,0.0,June
+292.0,A - IPC Crime,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC)",Commercial Establishment/Shop,0.0,0.0,0.0,0.0,June
+293.0,A - IPC Crime,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC)",Customs Department,0.0,0.0,0.0,0.0,June
+294.0,A - IPC Crime,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC)",Excise Department,0.0,0.0,0.0,0.0,June
+295.0,A - IPC Crime,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC)",Financial Institution,1.0,0.0,0.0,1.0,June
+296.0,A - IPC Crime,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC)",Income Tax Department,0.0,0.0,0.0,0.0,June
+297.0,A - IPC Crime,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC)",Other Government Organisation,0.0,0.0,0.0,0.0,June
+298.0,A - IPC Crime,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC)",Postal Department,0.0,0.0,0.0,0.0,June
+299.0,A - IPC Crime,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC)",Public Sector Undertakings,0.0,0.0,0.0,0.0,June
+300.0,A - IPC Crime,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC)",Railway Department,0.0,0.0,0.0,0.0,June
+301.0,A - IPC Crime,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC)",Revenue Department,0.0,0.0,0.0,0.0,June
+302.0,A - IPC Crime,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC)",Sales Tax Department,0.0,0.0,0.0,0.0,June
+303.0,A - IPC Crime,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC)",Social Organisation (Aided) (N),0.0,0.0,0.0,0.0,June
+304.0,A - IPC Crime,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC)",Transport Authority,0.0,0.0,0.0,0.0,June
+305.0,A - IPC Crime,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC)",Trust - Other than religious,0.0,0.0,0.0,0.0,June
+306.0,A - IPC Crime,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC)",Trust - Religious,0.0,0.0,0.0,0.0,June
+307.0,A - IPC Crime,"CRIMINAL MISAPPROPRIATION (Sec. 403, 404 IPC)",Others,3.0,0.0,0.0,0.0,June
+308.0,A - IPC Crime,CRIMINAL TRESPASS (Sec.447 to 452 IPC),Attempt to Commit,9.0,1.0,4.0,1.0,June
+309.0,A - IPC Crime,CRIMINAL TRESPASS (Sec.447 to 452 IPC),Club,0.0,0.0,0.0,0.0,June
+310.0,A - IPC Crime,CRIMINAL TRESPASS (Sec.447 to 452 IPC),Hostel,5.0,0.0,2.0,1.0,June
+311.0,A - IPC Crime,CRIMINAL TRESPASS (Sec.447 to 452 IPC),Hotel,7.0,1.0,0.0,1.0,June
+312.0,A - IPC Crime,CRIMINAL TRESPASS (Sec.447 to 452 IPC),House,337.0,75.0,55.0,60.0,June
+313.0,A - IPC Crime,CRIMINAL TRESPASS (Sec.447 to 452 IPC),Land,779.0,158.0,148.0,165.0,June
+314.0,A - IPC Crime,CRIMINAL TRESPASS (Sec.447 to 452 IPC),Office,30.0,6.0,9.0,6.0,June
+315.0,A - IPC Crime,CRIMINAL TRESPASS (Sec.447 to 452 IPC),Prohibited Places,11.0,0.0,3.0,1.0,June
+316.0,A - IPC Crime,CRIMINAL TRESPASS (Sec.447 to 452 IPC),Religious Place,7.0,2.0,1.0,0.0,June
+317.0,A - IPC Crime,CRIMINAL TRESPASS (Sec.447 to 452 IPC),Restricted Area,9.0,2.0,3.0,1.0,June
+318.0,A - IPC Crime,CRIMINAL TRESPASS (Sec.447 to 452 IPC),Others,120.0,17.0,15.0,17.0,June
+319.0,A - IPC Crime,CRUELTY BY HUSBAND (Sec. 498(A) IPC),Husband ,615.0,119.0,106.0,110.0,June
+320.0,A - IPC Crime,CRUELTY BY HUSBAND (Sec. 498(A) IPC),Husband And Relative(S) in Law,739.0,159.0,139.0,132.0,June
+321.0,A - IPC Crime,CRUELTY BY HUSBAND (Sec. 498(A) IPC),Relative(S) in Law,15.0,5.0,2.0,4.0,June
+322.0,A - IPC Crime,CRUELTY BY HUSBAND (Sec. 498(A) IPC),Dowry Harassment,301.0,49.0,68.0,64.0,June
+323.0,A - IPC Crime,CRUELTY BY HUSBAND (Sec. 498(A) IPC),Prevention of Gaming,2.0,0.0,0.0,0.0,June
+324.0,A - IPC Crime,DOWRY DEATHS (Sec.304(B) IPC),By Husband  ,1.0,1.0,0.0,0.0,June
+325.0,A - IPC Crime,DOWRY DEATHS (Sec.304(B) IPC),By Husband And Relatives In Law,20.0,5.0,2.0,4.0,June
+326.0,A - IPC Crime,DOWRY DEATHS (Sec.304(B) IPC),By Relatives in Law,0.0,0.0,0.0,0.0,June
+327.0,A - IPC Crime,DOWRY DEATHS (Sec.304(B) IPC),By Burning,0.0,0.0,0.0,0.0,June
+328.0,A - IPC Crime,DOWRY DEATHS (Sec.304(B) IPC),By Hanging,30.0,3.0,6.0,6.0,June
+329.0,A - IPC Crime,DOWRY DEATHS (Sec.304(B) IPC),By Other Means,3.0,0.0,2.0,0.0,June
+330.0,A - IPC Crime,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC),Electrocution,11.0,2.0,2.0,4.0,June
+331.0,A - IPC Crime,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC),Adulterated Food/Drug,0.0,0.0,0.0,0.0,June
+332.0,A - IPC Crime,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC),Accident by Air,0.0,0.0,0.0,0.0,June
+333.0,A - IPC Crime,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC),Boad Accident,0.0,0.0,0.0,0.0,June
+334.0,A - IPC Crime,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC),Bridge/Dam Collapse,0.0,0.0,0.0,0.0,June
+335.0,A - IPC Crime,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC),Building Collapse,6.0,2.0,1.0,2.0,June
+336.0,A - IPC Crime,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC),Caused By Animal,1.0,0.0,0.0,0.0,June
+337.0,A - IPC Crime,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC),Death Due to Other Cause,48.0,9.0,5.0,8.0,June
+338.0,A - IPC Crime,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC),Electrocution Accident,27.0,3.0,6.0,13.0,June
+339.0,A - IPC Crime,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC),Explosion Accident,1.0,0.0,0.0,0.0,June
+340.0,A - IPC Crime,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC),Fire accident,2.0,0.0,0.0,0.0,June
+341.0,A - IPC Crime,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC),Gas Leakage Accident,2.0,1.0,1.0,0.0,June
+342.0,A - IPC Crime,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC),Improper Infrastucture In Construction,37.0,4.0,7.0,6.0,June
+343.0,A - IPC Crime,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC),Improper Medical Treatment,3.0,1.0,0.0,0.0,June
+344.0,A - IPC Crime,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC),In Custody of Public Servant,0.0,0.0,0.0,0.0,June
+345.0,A - IPC Crime,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC),In Jail/Judicial Custody,1.0,0.0,0.0,0.0,June
+346.0,A - IPC Crime,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC),In Police Custody,0.0,0.0,0.0,0.0,June
+347.0,A - IPC Crime,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC),Industrial Accident (Factory),3.0,0.0,1.0,0.0,June
+348.0,A - IPC Crime,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC),Inflammable Substance,0.0,0.0,0.0,0.0,June
+349.0,A - IPC Crime,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC),Mine Accident,0.0,0.0,0.0,0.0,June
+350.0,A - IPC Crime,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC),Poisonous Substance,0.0,0.0,0.0,0.0,June
+351.0,A - IPC Crime,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC),Quarry Accident,0.0,1.0,0.0,0.0,June
+352.0,A - IPC Crime,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC),Spurious Liquor (Hooch) Accident,0.0,0.0,0.0,0.0,June
+353.0,A - IPC Crime,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC),Railway Accident,0.0,0.0,0.0,0.0,June
+354.0,A - IPC Crime,DEATHS DUE TO RASHNESS/NEGLIGENCE (Sec.304(A) IPC),Others,44.0,8.0,11.0,6.0,June
+355.0,A - IPC Crime,MOTOR VEHICLE ACCIDENTS FATAL (Sec.304(A) IPC),National Highways,1968.0,311.0,356.0,290.0,June
+356.0,A - IPC Crime,MOTOR VEHICLE ACCIDENTS FATAL (Sec.304(A) IPC),State Highways,1665.0,279.0,284.0,202.0,June
+357.0,A - IPC Crime,MOTOR VEHICLE ACCIDENTS FATAL (Sec.304(A) IPC),Other Roads,2179.0,367.0,354.0,281.0,June
+358.0,A - IPC Crime,MOTOR VEHICLE ACCIDENTS FATAL (Sec.304(A) IPC),Other Places,106.0,19.0,15.0,11.0,June
+359.0,A - IPC Crime,"MOTOR VEHICLE ACCIDENTS NON-FATAL (Sec.279, 337, 338 IPC)",National Highways,5327.0,831.0,987.0,857.0,June
+360.0,A - IPC Crime,"MOTOR VEHICLE ACCIDENTS NON-FATAL (Sec.279, 337, 338 IPC)",State Highways,3788.0,618.0,667.0,592.0,June
+361.0,A - IPC Crime,"MOTOR VEHICLE ACCIDENTS NON-FATAL (Sec.279, 337, 338 IPC)",Other Roads,7136.0,1164.0,1204.0,1151.0,June
+362.0,A - IPC Crime,"MOTOR VEHICLE ACCIDENTS NON-FATAL (Sec.279, 337, 338 IPC)",Other Places,206.0,40.0,30.0,31.0,June
+363.0,A - IPC Crime,"DEATHS-MISCARRIAGE (Sec.312, 313, 314 IPC)",Child,15.0,1.0,2.0,5.0,June
+364.0,A - IPC Crime,"DEATHS-MISCARRIAGE (Sec.312, 313, 314 IPC)",Woman,1.0,0.0,0.0,0.0,June
+365.0,A - IPC Crime,"DEATHS-MISCARRIAGE (Sec.312, 313, 314 IPC)",Women and Child,3.0,0.0,1.0,1.0,June
+366.0,A - IPC Crime,"DEFENCE FORCES OFFENCES RELATING (also relating to desertion) (Sec.131 to 140, except 136 IPC)",Air Force,1.0,0.0,0.0,0.0,June
+367.0,A - IPC Crime,"DEFENCE FORCES OFFENCES RELATING (also relating to desertion) (Sec.131 to 140, except 136 IPC)",Army,0.0,0.0,0.0,0.0,June
+368.0,A - IPC Crime,"DEFENCE FORCES OFFENCES RELATING (also relating to desertion) (Sec.131 to 140, except 136 IPC)",Navy,0.0,0.0,0.0,0.0,June
+369.0,A - IPC Crime,"ESCAPE FROM LAWFUL CUSTODY AND RESISTANCE (Sec.224, 225, 225(B) IPC)",From Jail Custody,1.0,1.0,1.0,0.0,June
+370.0,A - IPC Crime,"ESCAPE FROM LAWFUL CUSTODY AND RESISTANCE (Sec.224, 225, 225(B) IPC)",From Police Custody,13.0,3.0,3.0,2.0,June
+371.0,A - IPC Crime,"ESCAPE FROM LAWFUL CUSTODY AND RESISTANCE (Sec.224, 225, 225(B) IPC)",Others,5.0,0.0,1.0,0.0,June
+372.0,A - IPC Crime,"IMPERSONATION (Sec.170, 171 IPC)",Attempt to Commit,1.0,0.0,1.0,0.0,June
+373.0,A - IPC Crime,"IMPERSONATION (Sec.170, 171 IPC)",Non-Uniformed Authority,3.0,0.0,0.0,0.0,June
+374.0,A - IPC Crime,"IMPERSONATION (Sec.170, 171 IPC)",Uniformed Authority,0.0,0.0,0.0,0.0,June
+375.0,A - IPC Crime,"MISCHIEF (Sec.427 to 440 except 434, 435, 436, 438 IPC)",,220.0,45.0,32.0,35.0,June
+376.0,A - IPC Crime,MOLESTATION (Sec.354 IPC),Attempt to Commit,38.0,11.0,5.0,5.0,June
+377.0,A - IPC Crime,MOLESTATION (Sec.354 IPC),Private Place,640.0,121.0,116.0,96.0,June
+378.0,A - IPC Crime,MOLESTATION (Sec.354 IPC),Public Conveyance,6.0,3.0,1.0,0.0,June
+379.0,A - IPC Crime,MOLESTATION (Sec.354 IPC),Public Place,1291.0,211.0,223.0,224.0,June
+380.0,A - IPC Crime,MOLESTATION (Sec.354 IPC),Other Places,1663.0,289.0,342.0,289.0,June
+381.0,A - IPC Crime,POISONING-PROFESSIONAL (Sec. 328 IPC),Attempt to Commit,1.0,0.0,0.0,0.0,June
+382.0,A - IPC Crime,POISONING-PROFESSIONAL (Sec. 328 IPC),Fatal,1.0,0.0,0.0,0.0,June
+383.0,A - IPC Crime,POISONING-PROFESSIONAL (Sec. 328 IPC),Non Fatal,2.0,0.0,0.0,0.0,June
+384.0,A - IPC Crime,PORNOGRAPHY (Sec.292 to 294 IPC),Advertisement,0.0,0.0,0.0,0.0,June
+385.0,A - IPC Crime,PORNOGRAPHY (Sec.292 to 294 IPC),Audio Tape,0.0,0.0,0.0,0.0,June
+386.0,A - IPC Crime,PORNOGRAPHY (Sec.292 to 294 IPC),Book,0.0,0.0,0.0,0.0,June
+387.0,A - IPC Crime,PORNOGRAPHY (Sec.292 to 294 IPC),Computer Software,0.0,0.0,0.0,0.0,June
+388.0,A - IPC Crime,PORNOGRAPHY (Sec.292 to 294 IPC),Figures,0.0,0.0,0.0,0.0,June
+389.0,A - IPC Crime,PORNOGRAPHY (Sec.292 to 294 IPC),Film (Blue),0.0,0.0,0.0,0.0,June
+390.0,A - IPC Crime,PORNOGRAPHY (Sec.292 to 294 IPC),Painting,0.0,0.0,0.0,0.0,June
+391.0,A - IPC Crime,PORNOGRAPHY (Sec.292 to 294 IPC),Pamphlet,0.0,0.0,0.0,0.0,June
+392.0,A - IPC Crime,PORNOGRAPHY (Sec.292 to 294 IPC),Paper,0.0,0.0,0.0,0.0,June
+393.0,A - IPC Crime,PORNOGRAPHY (Sec.292 to 294 IPC),Photography,1.0,0.0,0.0,1.0,June
+394.0,A - IPC Crime,PORNOGRAPHY (Sec.292 to 294 IPC),Poster,0.0,0.0,0.0,0.0,June
+395.0,A - IPC Crime,PORNOGRAPHY (Sec.292 to 294 IPC),Video Film(Blue),1.0,0.0,1.0,0.0,June
+396.0,A - IPC Crime,PORNOGRAPHY (Sec.292 to 294 IPC),Others,1.0,0.0,0.0,0.0,June
+397.0,A - IPC Crime,PUBLIC JUSTICE (Sec.213 to 215 IPC),,2.0,0.0,0.0,0.0,June
+398.0,A - IPC Crime,PUBLIC NUISANCE (Sec.291 and 510 IPC),,39.0,14.0,3.0,5.0,June
+399.0,A - IPC Crime,"PUBLIC SAFETY (Sec.269 to 271, 277, 283, 289 IPC)",,1983.0,575.0,206.0,394.0,June
+400.0,A - IPC Crime,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC)",Attempt to Commit,6.0,1.0,2.0,1.0,June
+401.0,A - IPC Crime,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC)",Defence Personnel,1.0,1.0,0.0,0.0,June
+402.0,A - IPC Crime,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC)",Jail Personnel,7.0,0.0,1.0,2.0,June
+403.0,A - IPC Crime,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC)",Judicial Official,10.0,0.0,1.0,0.0,June
+404.0,A - IPC Crime,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC)",Minister,0.0,0.0,0.0,0.0,June
+405.0,A - IPC Crime,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC)",MLA,0.0,0.0,0.0,0.0,June
+406.0,A - IPC Crime,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC)",MP,1.0,0.0,0.0,0.0,June
+407.0,A - IPC Crime,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC)",Nationalised Bank Personnel,0.0,0.0,0.0,0.0,June
+408.0,A - IPC Crime,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC)",Other Elected Member,1.0,0.0,0.0,0.0,June
+409.0,A - IPC Crime,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC)",Other Enforcement Official,3.0,0.0,0.0,1.0,June
+410.0,A - IPC Crime,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC)",Other Govt. Official,207.0,43.0,38.0,27.0,June
+411.0,A - IPC Crime,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC)",Para Military Personnel,1.0,0.0,1.0,0.0,June
+412.0,A - IPC Crime,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC)",Police Personnel,201.0,33.0,34.0,25.0,June
+413.0,A - IPC Crime,"OFFENCES AGAINST PUBLIC SERVANTS (Public servant is a victim) (Sec 182-188, 332, 333, 353 IPC)",Public Sector Undertaking Official,56.0,9.0,6.0,4.0,June
+414.0,A - IPC Crime,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 139, 167, 218, 221, 222 IPC)",Defence Personnel,0.0,0.0,0.0,0.0,June
+415.0,A - IPC Crime,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 139, 167, 218, 221, 222 IPC)",Jail Personnel,1.0,0.0,0.0,0.0,June
+416.0,A - IPC Crime,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 139, 167, 218, 221, 222 IPC)",Judicial Official,0.0,0.0,0.0,0.0,June
+417.0,A - IPC Crime,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 139, 167, 218, 221, 222 IPC)",Minister,0.0,0.0,0.0,0.0,June
+418.0,A - IPC Crime,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 139, 167, 218, 221, 222 IPC)",MLA,0.0,0.0,0.0,0.0,June
+419.0,A - IPC Crime,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 139, 167, 218, 221, 222 IPC)",MP,0.0,0.0,0.0,0.0,June
+420.0,A - IPC Crime,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 139, 167, 218, 221, 222 IPC)",Nationalised Bank Personnel,0.0,0.0,0.0,0.0,June
+421.0,A - IPC Crime,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 139, 167, 218, 221, 222 IPC)",Other Elected Member,0.0,0.0,0.0,0.0,June
+422.0,A - IPC Crime,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 139, 167, 218, 221, 222 IPC)",Other Enforcement Official,0.0,0.0,0.0,0.0,June
+423.0,A - IPC Crime,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 139, 167, 218, 221, 222 IPC)",Other Govt. Official,3.0,1.0,1.0,0.0,June
+424.0,A - IPC Crime,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 139, 167, 218, 221, 222 IPC)",Para Military Personnel,0.0,0.0,0.0,0.0,June
+425.0,A - IPC Crime,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 139, 167, 218, 221, 222 IPC)",Police Personnel,2.0,0.0,0.0,1.0,June
+426.0,A - IPC Crime,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 139, 167, 218, 221, 222 IPC)",Public Sector Undertaking Official,0.0,0.0,0.0,0.0,June
+427.0,A - IPC Crime,"OFFENCES BY PUBLIC SERVANTS (EXCEPT CORRUPTION) (Public servant is accused) (Sec.128, 139, 167, 218, 221, 222 IPC)",Others,0.0,2.0,0.0,0.0,June
+428.0,A - IPC Crime,"NEGLIGENT ACT (Sec.280 to 289, 336 to 338 except 283 IPC)",Death Causeed By Electric Shock,35.0,7.0,14.0,6.0,June
+429.0,A - IPC Crime,"NEGLIGENT ACT (Sec.280 to 289, 336 to 338 except 283 IPC)",Animal -Related,32.0,8.0,5.0,5.0,June
+430.0,A - IPC Crime,"NEGLIGENT ACT (Sec.280 to 289, 336 to 338 except 283 IPC)",Boat/Vessel - Related,3.0,0.0,1.0,0.0,June
+431.0,A - IPC Crime,"NEGLIGENT ACT (Sec.280 to 289, 336 to 338 except 283 IPC)",Explosive/Explosive Substances - Related,23.0,5.0,5.0,4.0,June
+432.0,A - IPC Crime,"NEGLIGENT ACT (Sec.280 to 289, 336 to 338 except 283 IPC)",Inflammable Substance- Related ,10.0,0.0,0.0,2.0,June
+433.0,A - IPC Crime,"NEGLIGENT ACT (Sec.280 to 289, 336 to 338 except 283 IPC)",Machinery - Related,59.0,16.0,20.0,13.0,June
+434.0,A - IPC Crime,"NEGLIGENT ACT (Sec.280 to 289, 336 to 338 except 283 IPC)",Poisonous Substance - Related,4.0,0.0,1.0,1.0,June
+435.0,A - IPC Crime,"NEGLIGENT ACT (Sec.280 to 289, 336 to 338 except 283 IPC)",Other - Related,638.0,69.0,85.0,96.0,June
+436.0,A - IPC Crime,"NEGLIGENT ACT (Sec.280 to 289, 336 to 338 except 283 IPC)",Human - Related,365.0,54.0,40.0,65.0,June
+437.0,A - IPC Crime,RECEIVING OF STOLEN PROPERTY (Sec.411 to 414 IPC),,1.0,0.0,0.0,0.0,June
+438.0,A - IPC Crime,SEDITION (Sec. 124A IPC),Attempt to Commit,0.0,0.0,0.0,0.0,June
+439.0,A - IPC Crime,SEDITION (Sec. 124A IPC),By Foreigner,0.0,0.0,0.0,0.0,June
+440.0,A - IPC Crime,SEDITION (Sec. 124A IPC),By National,0.0,0.0,0.0,0.0,June
+441.0,A - IPC Crime,SEDITION (Sec. 124A IPC),By National And Foreigner,0.0,0.0,0.0,0.0,June
+442.0,A - IPC Crime,INSULTING MODESTY OF WOMEN (EVE TEASING) (Sec.509 IPC),Attempt to Commit,0.0,0.0,0.0,0.0,June
+443.0,A - IPC Crime,INSULTING MODESTY OF WOMEN (EVE TEASING) (Sec.509 IPC),Office,3.0,1.0,0.0,0.0,June
+444.0,A - IPC Crime,INSULTING MODESTY OF WOMEN (EVE TEASING) (Sec.509 IPC),Public Conveyance,1.0,0.0,1.0,0.0,June
+445.0,A - IPC Crime,INSULTING MODESTY OF WOMEN (EVE TEASING) (Sec.509 IPC),Public Place,22.0,4.0,6.0,3.0,June
+446.0,A - IPC Crime,INSULTING MODESTY OF WOMEN (EVE TEASING) (Sec.509 IPC),Other Places,33.0,3.0,5.0,8.0,June
+447.0,A - IPC Crime,"SUICIDE (Sec.305, 306, 309 IPC)",Dowry,1.0,0.0,0.0,0.0,June
+448.0,A - IPC Crime,"SUICIDE (Sec.305, 306, 309 IPC)",Abetment of Suicide,150.0,25.0,21.0,33.0,June
+449.0,A - IPC Crime,"SUICIDE (Sec.305, 306, 309 IPC)",Other Reasons,144.0,29.0,27.0,20.0,June
+450.0,A - IPC Crime,"SUICIDE (Sec.305, 306, 309 IPC)",Attempt to Commit suicide,59.0,5.0,11.0,9.0,June
+451.0,A - IPC Crime,UNNATURAL SEX (Sec.377 IPC),Abetment  ,0.0,0.0,0.0,0.0,June
+452.0,A - IPC Crime,UNNATURAL SEX (Sec.377 IPC),Animal  ,0.0,0.0,0.0,0.0,June
+453.0,A - IPC Crime,UNNATURAL SEX (Sec.377 IPC),Attempt,0.0,0.0,0.0,0.0,June
+454.0,A - IPC Crime,UNNATURAL SEX (Sec.377 IPC),Major - Man,3.0,0.0,1.0,2.0,June
+455.0,A - IPC Crime,UNNATURAL SEX (Sec.377 IPC),Major - Woman,1.0,1.0,0.0,1.0,June
+456.0,A - IPC Crime,UNNATURAL SEX (Sec.377 IPC),Minor - Boy,0.0,0.0,0.0,0.0,June
+457.0,A - IPC Crime,UNNATURAL SEX (Sec.377 IPC),Minor - Girl,0.0,0.0,0.0,0.0,June
+458.0,A - IPC Crime,WRONGFUL RESTRAINT/CONFINEMENT (Sec.341 to 348 IPC),Attempt to Commit,13.0,1.0,6.0,1.0,June
+459.0,A - IPC Crime,WRONGFUL RESTRAINT/CONFINEMENT (Sec.341 to 348 IPC),To Extort Confession,4.0,0.0,1.0,1.0,June
+460.0,A - IPC Crime,WRONGFUL RESTRAINT/CONFINEMENT (Sec.341 to 348 IPC),To Extort Property,12.0,0.0,3.0,2.0,June
+461.0,A - IPC Crime,WRONGFUL RESTRAINT/CONFINEMENT (Sec.341 to 348 IPC),To settle Dispute,6.0,3.0,2.0,0.0,June
+462.0,A - IPC Crime,WRONGFUL RESTRAINT/CONFINEMENT (Sec.341 to 348 IPC),Others,166.0,36.0,18.0,27.0,June
+463.0,A - IPC Crime,"INFANTICIDE (Sec.315, 316 IPC)",Male,0.0,0.0,0.0,0.0,June
+464.0,A - IPC Crime,"INFANTICIDE (Sec.315, 316 IPC)",Female,0.0,0.0,0.0,0.0,June
+465.0,A - IPC Crime,OFFENCES RELATED TO MARRIAGE (Sec.493 to 498 IPC),,21.0,5.0,4.0,3.0,June
+466.0,A - IPC Crime,"BUYING & SELLING MINOR FOR PROSTITUTION (Sec.372, 373 IPC)",,0.0,0.0,0.0,0.0,June
+467.0,A - IPC Crime,DOCUMENTS & PROPERTY MARKS (Sec.483 to 489 IPC),Documents  ,0.0,0.0,0.0,0.0,June
+468.0,A - IPC Crime,DOCUMENTS & PROPERTY MARKS (Sec.483 to 489 IPC),Property  ,0.0,0.0,0.0,0.0,June
+469.0,A - IPC Crime,DEFAMATION (Sec.500 to 502 IPC),Persons ,4.0,1.0,1.0,1.0,June
+470.0,A - IPC Crime,DEFAMATION (Sec.500 to 502 IPC),Printed Matter,2.0,0.0,0.0,0.0,June
+471.0,A - IPC Crime,DEFAMATION (Sec.500 to 502 IPC),Others,2.0,0.0,0.0,1.0,June
+472.0,A - IPC Crime,ELECTION(Sec.171(E) to 171(1) IPC),Assembly,5.0,11.0,2.0,0.0,June
+473.0,A - IPC Crime,ELECTION(Sec.171(E) to 171(1) IPC),Parliament,153.0,0.0,22.0,4.0,June
+474.0,A - IPC Crime,ELECTION(Sec.171(E) to 171(1) IPC),Other Elected Bodies,13.0,0.0,6.0,4.0,June
+475.0,A - IPC Crime,"SLAVERY (Sec.370, 371, 374 IPC)",Man,0.0,0.0,0.0,0.0,June
+476.0,A - IPC Crime,"SLAVERY (Sec.370, 371, 374 IPC)",Woman,0.0,0.0,0.0,0.0,June
+477.0,A - IPC Crime,"SLAVERY (Sec.370, 371, 374 IPC)",Boy,0.0,0.0,0.0,0.0,June
+478.0,A - IPC Crime,"SLAVERY (Sec.370, 371, 374 IPC)",Girl,0.0,0.0,0.0,0.0,June
+479.0,A - IPC Crime,Attempting to commit offences (Sec.511 IPC),Attempting to commit offences,109.0,23.0,18.0,18.0,June
+480.0,A - IPC Crime,ILLEGAL DETENTION (Sec.342 IPC),,0.0,0.0,0.0,0.0,June
+481.0,A - IPC Crime,FALSE EVIDENCE (Sec.191 to 205 IPC),,4.0,1.0,0.0,1.0,June
+482.0,A - IPC Crime,EXPOSURE AND ABANDONMENT OF CHILD (Sec.317 IPC),Boy ,19.0,1.0,1.0,2.0,June
+483.0,A - IPC Crime,EXPOSURE AND ABANDONMENT OF CHILD (Sec.317 IPC),Girl,8.0,3.0,2.0,4.0,June
+484.0,A - IPC Crime,OF ABETMENT (Sec.107 to 120 IPC),,4.0,1.0,1.0,1.0,June
+485.0,A - IPC Crime,"FAILURE TO APPEAR TO COURT (Sec.174, 229A IPC)",174 A,37.0,2.0,4.0,5.0,June
+486.0,A - IPC Crime,"FAILURE TO APPEAR TO COURT (Sec.174, 229A IPC)",229 A,160.0,4.0,9.0,19.0,June
+487.0,A - IPC Crime,Concealment of birth by secret disposal of Child,Girl,6.0,1.0,1.0,2.0,June
+488.0,A - IPC Crime,Concealment of birth by secret disposal of Child,Boy,16.0,1.0,1.0,4.0,June
+489.0,A - IPC Crime,ASSAULT OR USE OF CRIMINAL FORCE TO DISROBE WOMEN,,7.0,0.0,2.0,1.0,June
+490.0,A - IPC Crime,Disobedience to Order Promulgated by Public/Servant,By Others,10.0,3.0,1.0,3.0,June
+491.0,A - IPC Crime,Disobedience to Order Promulgated by Public/Servant,By Private Institution,10.0,0.0,2.0,0.0,June
+492.0,A - IPC Crime,Disobedience to Order Promulgated by Public/Servant,By Govt. Institution,0.0,0.0,0.0,0.0,June
+493.0,A - IPC Crime,Human Trafficking,Eunuch,1.0,0.0,1.0,0.0,June
+494.0,A - IPC Crime,Human Trafficking,Men,2.0,2.0,1.0,0.0,June
+495.0,A - IPC Crime,Human Trafficking,Boy,0.0,0.0,0.0,0.0,June
+496.0,A - IPC Crime,Human Trafficking,Women,5.0,0.0,1.0,1.0,June
+497.0,A - IPC Crime,Human Trafficking,Girl,0.0,0.0,0.0,0.0,June
+498.0,A - IPC Crime,Aadhaar Act,Impersonation,0.0,0.0,0.0,0.0,June
+499.0,A - IPC Crime,Aadhaar Act,Offence by Company,0.0,0.0,0.0,0.0,June
+500.0,A - IPC Crime,Aadhaar Act,Offence by individual,0.0,0.0,0.0,0.0,June
+501.0,A - IPC Crime,Giving false information respecting an offence com,Giving false information respecting an offence committed,1.0,0.0,0.0,0.0,June
+502.0,B - SPECIAL & LOCAL LAWS,ANTIQUES (CULTURAL PROPERTY),Antiques & Art Treasures Act 1972,0.0,0.0,0.0,0.0,June
+503.0,B - SPECIAL & LOCAL LAWS,ANTIQUES (CULTURAL PROPERTY),Ancient Monument & Archaelogical Sites And Remains Act 1958,4.0,0.0,0.0,2.0,June
+504.0,B - SPECIAL & LOCAL LAWS,ARMS ACT 1959,Country Made - Non Prohibited Bore - In Disturbed Area,14.0,0.0,2.0,3.0,June
+505.0,B - SPECIAL & LOCAL LAWS,ARMS ACT 1960,Country Made - Non Prohibited Bore - In Other Area,52.0,8.0,9.0,12.0,June
+506.0,B - SPECIAL & LOCAL LAWS,ARMS ACT 1961,Country Made - Prohibited Bore - In Disturbed Area,5.0,0.0,3.0,2.0,June
+507.0,B - SPECIAL & LOCAL LAWS,ARMS ACT 1962,Country Made - Prohibited Bore - In Other Area,37.0,7.0,11.0,6.0,June
+508.0,B - SPECIAL & LOCAL LAWS,ARMS ACT 1963,Factory Made - Non Prohibited Bore - In Disturbed Area,1.0,0.0,0.0,0.0,June
+509.0,B - SPECIAL & LOCAL LAWS,ARMS ACT 1964,Factory Made - Non Prohibited Bore - In Other Area,12.0,3.0,2.0,1.0,June
+510.0,B - SPECIAL & LOCAL LAWS,ARMS ACT 1965,Factory Made - Prohibited Bore - In Disturbed Area,1.0,0.0,1.0,0.0,June
+511.0,B - SPECIAL & LOCAL LAWS,ARMS ACT 1966,Factory Made - Prohibited Bore - In Other Area,15.0,2.0,3.0,4.0,June
+512.0,B - SPECIAL & LOCAL LAWS,ANIMAL,The Karnataka Prevention of Slaughter and Preservation of Cattle Ordinance 2020,78.0,27.0,11.0,19.0,June
+513.0,B - SPECIAL & LOCAL LAWS,ANIMAL,Wild Life Preservation Act 1972,0.0,0.0,0.0,0.0,June
+514.0,B - SPECIAL & LOCAL LAWS,ANIMAL,Wild Life Protection Act 1972,1.0,0.0,0.0,0.0,June
+515.0,B - SPECIAL & LOCAL LAWS,ANIMAL,Prevention of Cruelty to Animals Act 1960,97.0,21.0,14.0,30.0,June
+516.0,B - SPECIAL & LOCAL LAWS,ANIMAL,Elephant (Preservation) Act 1879,0.0,0.0,0.0,0.0,June
+517.0,B - SPECIAL & LOCAL LAWS,ANIMAL,Cattle Tresspass Act 1871,4.0,0.0,0.0,2.0,June
+518.0,B - SPECIAL & LOCAL LAWS,CINEMATOGRAPHY ACT 1952,Films,2.0,0.0,1.0,0.0,June
+519.0,B - SPECIAL & LOCAL LAWS,CINEMATOGRAPHY ACT 1953,Video,0.0,0.0,0.0,0.0,June
+520.0,B - SPECIAL & LOCAL LAWS,CONSUMER,Liquified Petroleum Gas Supply & Control Order 2000 ,41.0,4.0,6.0,4.0,June
+521.0,B - SPECIAL & LOCAL LAWS,CONSUMER,Consumer (Protection) Act 1986,5.0,1.0,1.0,1.0,June
+522.0,B - SPECIAL & LOCAL LAWS,CONSUMER,Essential Commodities Act 1955,263.0,52.0,46.0,44.0,June
+523.0,B - SPECIAL & LOCAL LAWS,CONSUMER,Prevention of Food Adulternation Act 1954,3.0,0.0,0.0,3.0,June
+524.0,B - SPECIAL & LOCAL LAWS,CONSUMER,Packaged Commodities (Regulation) order 1975,0.0,0.0,0.0,0.0,June
+525.0,B - SPECIAL & LOCAL LAWS,COPY RIGHT ACT 1957,By Company,75.0,12.0,13.0,15.0,June
+526.0,B - SPECIAL & LOCAL LAWS,COPY RIGHT ACT 1958,By Individual,49.0,9.0,7.0,13.0,June
+527.0,B - SPECIAL & LOCAL LAWS,CIVIL RIGHTS,Protection of Civil Rights Act 1955,0.0,2.0,0.0,0.0,June
+528.0,B - SPECIAL & LOCAL LAWS,SCHEDULED CASTE AND THE SCHEDULED TRIBES,Scheduled Caste  ,678.0,104.0,103.0,98.0,June
+529.0,B - SPECIAL & LOCAL LAWS,SCHEDULED CASTE AND THE SCHEDULED TRIBES,Scheduled Tribes,143.0,32.0,22.0,9.0,June
+530.0,B - SPECIAL & LOCAL LAWS,SCHEDULED CASTE AND THE SCHEDULED TRIBES,Scheduled Caste Women,255.0,51.0,43.0,33.0,June
+531.0,B - SPECIAL & LOCAL LAWS,SCHEDULED CASTE AND THE SCHEDULED TRIBES,Scheduled Tribes Women,60.0,15.0,7.0,8.0,June
+532.0,B - SPECIAL & LOCAL LAWS,CHILDREN ACT,Child Labour (Prohibition & Regulation) Act1986,49.0,18.0,4.0,19.0,June
+533.0,B - SPECIAL & LOCAL LAWS,CHILDREN ACT,Child Marriage (Restraint) Act - 1929,86.0,17.0,18.0,22.0,June
+534.0,B - SPECIAL & LOCAL LAWS,CHILDREN ACT,Juvenile Justice Act 1986,84.0,7.0,19.0,10.0,June
+535.0,B - SPECIAL & LOCAL LAWS,CHILDREN ACT,Probation of offenders Act 1958,0.0,0.0,0.0,0.0,June
+536.0,B - SPECIAL & LOCAL LAWS,CHILDREN ACT,Protection of Children from Sexual Offences Act 2012 (POCSO),0.0,0.0,0.0,0.0,June
+537.0,B - SPECIAL & LOCAL LAWS,PREVENTION OF CORRUPTION ACT 1988,Public Servant - Elected,0.0,0.0,0.0,0.0,June
+538.0,B - SPECIAL & LOCAL LAWS,PREVENTION OF CORRUPTION ACT 1989,Public Servant - Gazetted - Central,0.0,0.0,0.0,0.0,June
+539.0,B - SPECIAL & LOCAL LAWS,PREVENTION OF CORRUPTION ACT 1990,Public Servant - Gazetted - Defence,0.0,0.0,0.0,0.0,June
+540.0,B - SPECIAL & LOCAL LAWS,PREVENTION OF CORRUPTION ACT 1991,Public Servant - Gazetted - Public Sector Undertaking,0.0,0.0,0.0,0.0,June
+541.0,B - SPECIAL & LOCAL LAWS,PREVENTION OF CORRUPTION ACT 1992,Public Servant - Gazetted - State,0.0,0.0,0.0,0.0,June
+542.0,B - SPECIAL & LOCAL LAWS,PREVENTION OF CORRUPTION ACT 1993,Public Servant - Non-Gazetted - Central,0.0,0.0,0.0,0.0,June
+543.0,B - SPECIAL & LOCAL LAWS,PREVENTION OF CORRUPTION ACT 1994,Public Servant - Non-Gazetted - Defence,0.0,0.0,0.0,0.0,June
+544.0,B - SPECIAL & LOCAL LAWS,PREVENTION OF CORRUPTION ACT 1995,Public Servant - Non-Gazetted - State,0.0,0.0,0.0,0.0,June
+545.0,B - SPECIAL & LOCAL LAWS,CUSTOMS,Customs Act 1962,0.0,0.0,0.0,0.0,June
+546.0,B - SPECIAL & LOCAL LAWS,CUSTOMS,Import/Export (Control) Act 1947,0.0,0.0,0.0,0.0,June
+547.0,B - SPECIAL & LOCAL LAWS,Explosives,Explosives Substances Act 1908,15.0,4.0,2.0,1.0,June
+548.0,B - SPECIAL & LOCAL LAWS,Explosives,Explosives Act 1884,25.0,1.0,2.0,3.0,June
+549.0,B - SPECIAL & LOCAL LAWS,Explosives,Inflammable Substance Act 1952,0.0,0.0,0.0,0.0,June
+550.0,B - SPECIAL & LOCAL LAWS,FOREIGN EXCHANGE,Smugglers and Foreign Exchange Manipulator Act 1976,0.0,0.0,0.0,0.0,June
+551.0,B - SPECIAL & LOCAL LAWS,FOREIGN EXCHANGE,Foreign Exchange Regulation Act 1973,0.0,0.0,0.0,0.0,June
+552.0,B - SPECIAL & LOCAL LAWS,FOREIGN EXCHANGE,Foreign Exchange Regulation Act 1952,0.0,0.0,0.0,0.0,June
+553.0,B - SPECIAL & LOCAL LAWS,FOREIGNER,Foreigners Act 1946,28.0,0.0,6.0,21.0,June
+554.0,B - SPECIAL & LOCAL LAWS,FOREIGNER,Registration of Foreigners Act 1939,0.0,0.0,0.0,0.0,June
+555.0,B - SPECIAL & LOCAL LAWS,FOREST,Indian Forest Act 1927,2.0,0.0,0.0,0.0,June
+556.0,B - SPECIAL & LOCAL LAWS,FOREST,Forest (Conservation) Act 1980,5.0,0.0,0.0,0.0,June
+557.0,B - SPECIAL & LOCAL LAWS,HIJACKING,Foreign Aircraft - In India,0.0,0.0,0.0,0.0,June
+558.0,B - SPECIAL & LOCAL LAWS,HIJACKING,Foreign Aircraft - Outside India,0.0,0.0,0.0,0.0,June
+559.0,B - SPECIAL & LOCAL LAWS,HIJACKING,Indian Aircraft - In India,0.0,0.0,0.0,0.0,June
+560.0,B - SPECIAL & LOCAL LAWS,HIJACKING,Indian Aircraft - Outside India,0.0,0.0,0.0,0.0,June
+561.0,B - SPECIAL & LOCAL LAWS,IMMORAL TRAFFIC,Organised,121.0,24.0,24.0,18.0,June
+562.0,B - SPECIAL & LOCAL LAWS,IMMORAL TRAFFIC,Un-Organised,43.0,10.0,6.0,4.0,June
+563.0,B - SPECIAL & LOCAL LAWS,BONDED LABOUR SYSTEM,,0.0,1.0,0.0,0.0,June
+564.0,B - SPECIAL & LOCAL LAWS,INDIAN MOTOR VEHICLE,,51.0,0.0,3.0,16.0,June
+565.0,B - SPECIAL & LOCAL LAWS,NARCOTIC DRUGS & PSYCHOTROPIC SUBSTANCES ACT,Cultivated/Processed,642.0,828.0,74.0,133.0,June
+566.0,B - SPECIAL & LOCAL LAWS,NARCOTIC DRUGS & PSYCHOTROPIC SUBSTANCES ACT,Synthetic,1067.0,462.0,169.0,189.0,June
+567.0,B - SPECIAL & LOCAL LAWS,PASSPORT ACT,Foreigner,1.0,0.0,0.0,0.0,June
+568.0,B - SPECIAL & LOCAL LAWS,PASSPORT ACT,Indian,1.0,0.0,0.0,0.0,June
+569.0,B - SPECIAL & LOCAL LAWS,REPRESENTATIVE OF PEOPLE ACT 1951 & 1988,Assembly,4.0,0.0,0.0,1.0,June
+570.0,B - SPECIAL & LOCAL LAWS,REPRESENTATIVE OF PEOPLE ACT 1951 & 1989,Parliament,101.0,0.0,24.0,1.0,June
+571.0,B - SPECIAL & LOCAL LAWS,REPRESENTATIVE OF PEOPLE ACT 1951 & 1990,Other Elected Bodies,10.0,0.0,4.0,0.0,June
+572.0,B - SPECIAL & LOCAL LAWS,KARNATAKA POLICE ACT 1963,Gambling - Matka (78 Class C),2479.0,701.0,305.0,410.0,June
+573.0,B - SPECIAL & LOCAL LAWS,KARNATAKA POLICE ACT 1964,Street Gambling (87),3082.0,583.0,413.0,476.0,June
+574.0,B - SPECIAL & LOCAL LAWS,KARNATAKA POLICE ACT 1965,House Gambling (79 & 80),125.0,46.0,20.0,30.0,June
+575.0,B - SPECIAL & LOCAL LAWS,KARNATAKA POLICE ACT 1966,Betting ,377.0,11.0,115.0,19.0,June
+576.0,B - SPECIAL & LOCAL LAWS,KARNATAKA POLICE ACT 1967,Others ,324.0,41.0,30.0,36.0,June
+577.0,B - SPECIAL & LOCAL LAWS,PREVENTION OF DAMAGE TO PUBLIC PROPERTY ACT 1984,,91.0,13.0,20.0,18.0,June
+578.0,B - SPECIAL & LOCAL LAWS,"POST & TELEGRAPH, TELEGRAPH WIRES (UNLAWFUL POSSESSION) ACT 1980",,1.0,0.0,0.0,1.0,June
+579.0,B - SPECIAL & LOCAL LAWS,OFFICIAL SECURITY RELATED ACTS,Official Secrets Act 1923,0.0,0.0,0.0,0.0,June
+580.0,B - SPECIAL & LOCAL LAWS,OFFICIAL SECURITY RELATED ACTS,Essential Services Maintenance Act 1981,0.0,0.0,0.0,0.0,June
+581.0,B - SPECIAL & LOCAL LAWS,PREVENTION OF TERRORISM ACT (POTA),,0.0,0.0,0.0,0.0,June
+582.0,B - SPECIAL & LOCAL LAWS,RAILWAYS ACT,Indian Railways Act 1989,1.0,0.0,1.0,0.0,June
+583.0,B - SPECIAL & LOCAL LAWS,RAILWAYS ACT,Railway Property (Unlawful Possession) Act 1966,0.0,1.0,0.0,0.0,June
+584.0,B - SPECIAL & LOCAL LAWS,UNLAWFUL ACTIVITIES (Prevention) Act 1967,,4.0,0.0,0.0,0.0,June
+585.0,B - SPECIAL & LOCAL LAWS,CRIMES RELATED TO WOMEN,Dowry Prohibition,1035.0,234.0,198.0,154.0,June
+586.0,B - SPECIAL & LOCAL LAWS,CRIMES RELATED TO WOMEN,Commission of SATI (Prevention) Act 1987,0.0,0.0,0.0,0.0,June
+587.0,B - SPECIAL & LOCAL LAWS,CRIMES RELATED TO WOMEN,Indecent Representation of Women (Prohibition) Act 1986,1.0,0.0,0.0,1.0,June
+588.0,B - SPECIAL & LOCAL LAWS,INDIAN LUNACY ACT,,0.0,0.0,0.0,0.0,June
+589.0,B - SPECIAL & LOCAL LAWS,INDIAN ELECTRICITY ACT,,2.0,3.0,0.0,0.0,June
+590.0,B - SPECIAL & LOCAL LAWS,"COTPA, CIGARETTES AND OTHER TOBACCO PRODUCTS",,419.0,458.0,95.0,60.0,June
+591.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,"The Karnataka Prevention of Dangerous Activities of Bootleggers, Drug-offenders, Gamblers, Goonda Act",0.0,0.0,0.0,0.0,June
+592.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Banning of Unregulated Deposit Schemes Act,13.0,0.0,0.0,2.0,June
+593.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Prevention of Slaughter and Preservation of Cattle Act 2020,108.0,40.0,18.0,37.0,June
+594.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,"Motor Spirit and High Speed Diesel (Regulation of upply, Distribution and Prevention of Malpractice",0.0,0.0,0.0,0.0,June
+595.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Cow Slaughters Act,131.0,54.0,17.0,41.0,June
+596.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Epidemic Deseases Act 2020,0.0,0.0,0.0,0.0,June
+597.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Disaster Management Act 2005,0.0,0.0,0.0,0.0,June
+598.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Excise Act 1965,3871.0,778.0,280.0,519.0,June
+599.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Forest Act 1963,28.0,3.0,0.0,4.0,June
+600.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Education Act 1983 As Amended Upto Date,4.0,0.0,0.0,0.0,June
+601.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Kerosene Restriction Unuse Act 1956,1.0,0.0,1.0,0.0,June
+602.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka University Act,0.0,0.0,0.0,0.0,June
+603.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Corruption Act,1.0,1.0,0.0,0.0,June
+604.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Medical Registration Act 1965,1.0,1.0,0.0,1.0,June
+605.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Land & Revenue Act 1964 & 2007,12.0,3.0,3.0,2.0,June
+606.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Kerosene Dealers License Order 1969,0.0,0.0,0.0,0.0,June
+607.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Society Registration Act,0.0,0.0,0.0,0.0,June
+608.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Minor Mineral Consistent Rule 1994,26.0,17.0,4.0,0.0,June
+609.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Bangalore Development Authority Act,0.0,1.0,0.0,0.0,June
+610.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Prohibition of Beggery Act 1975,0.0,0.0,0.0,0.0,June
+611.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Municipalities Act 1964,1.0,0.0,0.0,1.0,June
+612.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Irrigation Act 1963,1.0,0.0,0.0,0.0,June
+613.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Fire Force act 1964,1.0,1.0,1.0,0.0,June
+614.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Consumer Protection Act 1986,0.0,0.0,0.0,0.0,June
+615.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Lottery Act,26.0,9.0,0.0,5.0,June
+616.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Weight & Measurement Act,0.0,0.0,0.0,0.0,June
+617.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Agriculture Marketing Regulation Act,0.0,0.0,0.0,0.0,June
+618.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Revenue Act,1.0,0.0,0.0,1.0,June
+619.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Mining Act,0.0,0.0,0.0,0.0,June
+620.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Betting Tax Act,0.0,0.0,0.0,0.0,June
+621.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Panchayat Raj Act,0.0,0.0,0.0,0.0,June
+622.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Open Place Disfigurement Act 1951,153.0,2.0,6.0,123.0,June
+623.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Right To Information Act 2000 & 2008,0.0,0.0,0.0,0.0,June
+624.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Urban Development Act 1987,0.0,0.0,0.0,0.0,June
+625.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Town & City Planning Act 1961,0.0,0.0,0.0,0.0,June
+626.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Race Betting Act,0.0,0.0,0.0,0.0,June
+627.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Devadasi's (Prohibition Of Dedication) Act 1982,1.0,0.0,0.0,1.0,June
+628.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Cooperative Society Act,0.0,0.0,0.0,0.0,June
+629.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Entertainment Tax Act 1958,1.0,0.0,0.0,1.0,June
+630.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Land Acquisition (Prohibition) Act 2007,0.0,0.0,0.0,0.0,June
+631.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Money Lender Act 1961,10.0,0.0,3.0,2.0,June
+632.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Stamp Act 1957,0.0,0.0,0.0,0.0,June
+633.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Prisoners Act 1963 & 1974,23.0,1.0,2.0,2.0,June
+634.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Private Medical Institution Act 2007,1.0,0.0,0.0,0.0,June
+635.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,MMRD (Mines & Minerals Regulation Development ) Act 1957,54.0,17.0,6.0,10.0,June
+636.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Treasure Trove Act 1962,0.0,0.0,0.0,0.0,June
+637.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Prohibition of Charging Exorbitant Interest Act 2004,8.0,1.0,4.0,0.0,June
+638.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Karnataka Ayurvedic And Unani Pract. Regis. & Medical Prac. Misc. Prov. Act,0.0,0.0,0.0,0.0,June
+639.0,B - SPECIAL & LOCAL LAWS,KARNATAKA STATE LOCAL ACTS,Other Local Acts,72.0,17.0,13.0,10.0,June
+640.0,B - SPECIAL & LOCAL LAWS,CYBER CRIME,"Information Technology Act 2000, 2009",11729.0,1762.0,2284.0,2019.0,June
+641.0,B - SPECIAL & LOCAL LAWS,NATIONAL SECURITY ACT,,0.0,0.0,0.0,0.0,June
+642.0,B - SPECIAL & LOCAL LAWS,POCSO,Custodial Rape,0.0,0.0,0.0,0.0,June
+643.0,B - SPECIAL & LOCAL LAWS,POCSO,Gang Rape,4.0,0.0,1.0,1.0,June
+644.0,B - SPECIAL & LOCAL LAWS,POCSO,Rape with Murder,0.0,0.0,0.0,0.0,June
+645.0,B - SPECIAL & LOCAL LAWS,POCSO,Rape,1461.0,259.0,255.0,212.0,June
+646.0,B - SPECIAL & LOCAL LAWS,POCSO,Others ,511.0,77.0,107.0,67.0,June
+647.0,C. CRIMES AGAINST WOMEN,Rape (Sec. 376 IPC),1.1  Custodial Rape,1.0,0.0,0.0,0.0,June
+648.0,C. CRIMES AGAINST WOMEN,Rape (Sec. 376 IPC),1.2  Gang Rape,8.0,2.0,2.0,0.0,June
+649.0,C. CRIMES AGAINST WOMEN,Rape (Sec. 376 IPC),1.3  other Cases of Rape,325.0,65.0,79.0,55.0,June
+650.0,C. CRIMES AGAINST WOMEN,Outraging modesty (Molestation) (sec.354 IPC),,3638.0,635.0,687.0,614.0,June
+651.0,C. CRIMES AGAINST WOMEN,Kidnapping & Abduction of Women: (Sec.366 IPC),,64.0,23.0,10.0,14.0,June
+652.0,C. CRIMES AGAINST WOMEN,Insulting modesty (Eve-Teasing) (Sec.294 & 509 IPC if victim is a woman),,59.0,8.0,12.0,11.0,June
+653.0,C. CRIMES AGAINST WOMEN,Murder for Dowry - by burning (Sec.302 IPC),,0.0,0.0,0.0,0.0,June
+654.0,C. CRIMES AGAINST WOMEN,"Murder for Dowry - by other means
+(Sec.302 IPC)",,4.0,0.0,0.0,1.0,June
+655.0,C. CRIMES AGAINST WOMEN,Murder for other reasons,,209.0,36.0,45.0,28.0,June
+656.0,C. CRIMES AGAINST WOMEN,Attempt to Commit Murder for dowry by burning (Sec.307 IPC),,1.0,0.0,0.0,0.0,June
+657.0,C. CRIMES AGAINST WOMEN,Attempt to Commit Murder for dowry by other means (Sec.307 IPC),,21.0,5.0,5.0,5.0,June
+658.0,C. CRIMES AGAINST WOMEN,Attempt to Commit murder for other reasons,,422.0,89.0,98.0,61.0,June
+659.0,C. CRIMES AGAINST WOMEN,"Dowry Death-by burning
+(Sec.304-B IPC)",,0.0,0.0,0.0,0.0,June
+660.0,C. CRIMES AGAINST WOMEN,Dowry Death-by other Means (Sec.304(B) IPC),,54.0,9.0,10.0,10.0,June
+661.0,C. CRIMES AGAINST WOMEN,Cruelty by Husband or Relatives of Husband (Sec.498-A IPC),,1672.0,332.0,315.0,310.0,June
+662.0,C. CRIMES AGAINST WOMEN,Abetment of Suicide (Sec.306 IPC),,79.0,12.0,9.0,14.0,June
+663.0,C. CRIMES AGAINST WOMEN,Immoral Traffic (prevention) Act.,,164.0,34.0,30.0,22.0,June
+664.0,C. CRIMES AGAINST WOMEN,Indecent Representation of Women(Prohibition) Act-1986,,1.0,0.0,0.0,1.0,June
+665.0,C. CRIMES AGAINST WOMEN,Pornography,,1.0,0.0,0.0,1.0,June
+666.0,C. CRIMES AGAINST WOMEN,Offences against Public Servants (Sec.182-188-333-353 IPC),,67.0,0.0,11.0,9.0,June
+667.0,C. CRIMES AGAINST WOMEN,Offences related to Marriage,,17.0,4.0,4.0,2.0,June
+668.0,C. CRIMES AGAINST WOMEN,Cyber Crimes,,3443.0,661.0,621.0,589.0,June
+669.0,D.CRIME AGAINST CHILDREN,"Infanticide/ Foeticide 
+(Sec. 315 & 316 IPC)",,0.0,0.0,0.0,0.0,June
+670.0,D.CRIME AGAINST CHILDREN,Rape on Minor,,0.0,0.0,0.0,0.0,June
+671.0,D.CRIME AGAINST CHILDREN,Exposure & abandonment (Sec. 317 IPC),,27.0,4.0,6.0,3.0,June
+672.0,D.CRIME AGAINST CHILDREN,Kidnapping & Abduction of Children,,2001.0,258.0,374.0,387.0,June
+673.0,D.CRIME AGAINST CHILDREN,For Ransom - of Children,,6.0,0.0,0.0,2.0,June
+674.0,D.CRIME AGAINST CHILDREN,of Children - for begging,,0.0,0.0,0.0,0.0,June
+675.0,D.CRIME AGAINST CHILDREN,of Girls - Immoral Purpose,,0.0,0.0,0.0,0.0,June
+676.0,D.CRIME AGAINST CHILDREN,With intent to Steal from Child,,0.0,0.0,0.0,0.0,June
+677.0,D.CRIME AGAINST CHILDREN,Lawful Guardianship,,2.0,0.0,0.0,2.0,June
+678.0,D.CRIME AGAINST CHILDREN,Procuration of Minor Girls - For Prostitution,,0.0,0.0,0.0,0.0,June
+679.0,D.CRIME AGAINST CHILDREN,Procuration of Minor Girls - Importing of Girl,,0.0,0.0,0.0,0.0,June
+680.0,D.CRIME AGAINST CHILDREN,Procuration of Minor Girls - For Other Purposes,,10.0,2.0,1.0,0.0,June
+681.0,D.CRIME AGAINST CHILDREN,Selling of girls for Prostitution (Sec.372 IPC),,0.0,0.0,0.0,0.0,June
+682.0,D.CRIME AGAINST CHILDREN,The Prohibition of Child Marriage Act - 2006,,86.0,17.0,18.0,22.0,June
+683.0,D.CRIME AGAINST CHILDREN,POCSO Act,,1976.0,336.0,363.0,280.0,June
+684.0,D.CRIME AGAINST CHILDREN,Death of Children due to miscarriage,,19.0,1.0,3.0,6.0,June
+685.0,D.CRIME AGAINST CHILDREN,Juvenile Justice Act,,84.0,7.0,19.0,10.0,June
+686.0,D.CRIME AGAINST CHILDREN,Child Labour (Pro.& Reg.) Act,,49.0,18.0,4.0,19.0,June
+687.0,D.CRIME AGAINST CHILDREN,Probation of Offenders Act,,0.0,0.0,0.0,0.0,June
+688.0, E. CRIME AGAINST SCHEDULED CASTES /TRIBES BY NON SCs/STs ,Murder,,54.0,8.0,4.0,6.0,June
+689.0, E. CRIME AGAINST SCHEDULED CASTES /TRIBES BY NON SCs/STs ,Rape,,178.0,38.0,27.0,30.0,June
+690.0, E. CRIME AGAINST SCHEDULED CASTES /TRIBES BY NON SCs/STs ,Kidnapping,,23.0,1.0,3.0,3.0,June
+691.0, E. CRIME AGAINST SCHEDULED CASTES /TRIBES BY NON SCs/STs ,Offences under the Protection of Civil Rights Act.,,1.0,2.0,0.0,0.0,June
+692.0, E. CRIME AGAINST SCHEDULED CASTES /TRIBES BY NON SCs/STs ,Offences under the SC & ST  (prevention of Atrocities)Act 1989 (if the victim is SC),,1025.0,179.0,156.0,133.0,June
+,,,,,,,,June
